@@ -1,29 +1,8 @@
-# Kompletní studijní plán ruštiny pro mluvčí češtiny a ukrajinštiny
+# Poznámky ke studiu ruštiny a ukrajinštiny
 
-## 1. Efektivní studijní plán
+## Porovnání základních ruských slov s češtinou a ukrajinštinou (s českou výslovností)
 
-### První měsíc
-- **Týden 1-2**: Azbuka a výslovnost
-- **Týden 3-4**: Základní fráze a pozdravy, osobní zájmena
-
-### Druhý měsíc
-- **Týden 5-6**: Podstatná jména a základní skloňování
-- **Týden 7-8**: Přídavná jména a jejich shoda, základní slovesa
-
-### Třetí měsíc
-- **Týden 9-10**: Minulý a budoucí čas, aspekty sloves
-- **Týden 11-12**: Rozšíření slovní zásoby, běžné konverzační fráze
-
-## 2. Studijní tipy
-- Využívejte podobnosti mezi ruštinou, češtinou a ukrajinštinou
-- Věnujte pozornost odlišnostem ve výslovnosti a přízvuku
-- Zaměřte se na tzv. "falešné přátele" (slova, která znějí podobně, ale mají jiný význam)
-- Sledujte ruské filmy s titulky
-- Najděte si konverzačního partnera pro mluvený projev
-
-## 3. Porovnání základních ruských slov s češtinou a ukrajinštinou (s českou výslovností)
-
-### 3.1 Základní fráze a pozdravy
+### 1 Základní fráze a pozdravy
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -46,7 +25,7 @@
 | понимаю (panimaju) | rozumím | розумію (rozumiju) | Podobnější ukrajinštině |
 | не понимаю (ně panimaju) | nerozumím | не розумію (ně rozumiju) | Podobnější ukrajinštině |
 
-### 3.2 Lidé a rodina
+### 2 Lidé a rodina
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -75,7 +54,7 @@
 | двоюродный брат (dvajučodnyj brat) | bratranec | двоюрідний брат (dvojuridnyj brat) | Stejné v ukrajinštině |
 | двоюродная сестра (dvajučodnaja sěstra) | sestřenice | двоюрідна сестра (dvojuridna sestra) | Stejné v ukrajinštině |
 
-### 3.3 Zvířata
+### 3 Zvířata
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -100,7 +79,7 @@
 | лягушка (ljaguška) | žába | жаба (žaba) | Podobnější češtině |
 | змея (zmeja) | had | змія (zmija) | Podobnější ukrajinštině |
 
-### 3.4 Dům a předměty
+### 4 Dům a předměty
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -127,7 +106,7 @@
 | холодильник (chalodilnik) | lednice | холодильник (cholodylnyk) | Stejné v ukrajinštině |
 | плита (plita) | sporák | плита (plyta) | Stejné v ukrajinštině |
 
-### 3.5 Jídlo a pití
+### 5 Jídlo a pití
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -164,7 +143,7 @@
 | вино (vino) | víno | вино (vyno) | Stejné ve všech třech |
 | пиво (piva) | pivo | пиво (pyvo) | Stejné ve všech třech |
 
-### 3.6 Město a doprava
+### 6 Město a doprava
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -196,7 +175,7 @@
 | вокзал (vakzal) | nádraží | вокзал (vokzal) | Stejné v ukrajinštině |
 | аэропорт (aeraport) | letiště | аеропорт (aeroport) | Stejné ve všech třech |
 
-### 3.7 Příroda a počasí
+### 7 Příroda a počasí
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -226,7 +205,7 @@
 | туман (tuman) | mlha | туман (tuman) | Stejné v ukrajinštině |
 | лёд (ljod) | led | лід (lid) | Podobnější češtině |
 
-### 3.8 Čas a období
+### 8 Čas a období
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -256,7 +235,7 @@
 | сегодня (sivodňa) | dnes | сьогодні (sjohodni) | Podobnější ukrajinštině |
 | завтра (zaftra) | zítra | завтра (zavtra) | Stejné v ukrajinštině |
 
-### 3.9 Čísla a matematika
+### 9 Čísla a matematika
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -311,9 +290,9 @@
 - Sledujte ruské filmy s titulky
 - Najděte si konverzačního partnera pro mluvený projev
 
-## 3. Porovnání základních ruských slov s češtinou a ukrajinštinou (s českou výslovností)
+##  Porovnání základních ruských slov s češtinou a ukrajinštinou (s českou výslovností)
 
-### 3.1 Základní fráze a pozdravy
+### 1 Základní fráze a pozdravy
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -336,7 +315,7 @@
 | понимаю (panimaju) | rozumím | розумію (rozumiju) | Podobnější ukrajinštině |
 | не понимаю (ně panimaju) | nerozumím | не розумію (ně rozumiju) | Podobnější ukrajinštině |
 
-### 3.2 Lidé a rodina
+### 2 Lidé a rodina
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -365,7 +344,7 @@
 | двоюродный брат (dvajučodnyj brat) | bratranec | двоюрідний брат (dvojuridnyj brat) | Stejné v ukrajinštině |
 | двоюродная сестра (dvajučodnaja sěstra) | sestřenice | двоюрідна сестра (dvojuridna sestra) | Stejné v ukrajinštině |
 
-### 3.3 Zvířata
+### 3 Zvířata
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -390,7 +369,7 @@
 | лягушка (ljaguška) | žába | жаба (žaba) | Podobnější češtině |
 | змея (zmeja) | had | змія (zmija) | Podobnější ukrajinštině |
 
-### 3.4 Dům a předměty
+### 4 Dům a předměty
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -417,7 +396,7 @@
 | холодильник (chalodilnik) | lednice | холодильник (cholodylnyk) | Stejné v ukrajinštině |
 | плита (plita) | sporák | плита (plyta) | Stejné v ukrajinštině |
 
-### 3.5 Jídlo a pití
+### 5 Jídlo a pití
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
@@ -457,7 +436,7 @@
 | вино (vino) | víno | вино (vyno) | Stejné ve všech třech |
 | пиво (pivo) | pivo | пиво (pyvo) | Stejné ve všech třech |
 
-### 3.6 Město a doprava
+### 6 Město a doprava
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -489,7 +468,7 @@
 | вокзал (vokzal) | nádraží | вокзал (vokzal) | Stejné v ukrajinštině |
 | аэропорт (aeroport) | letiště | аеропорт (aeroport) | Stejné ve všech třech |
 
-### 3.7 Příroda a počasí
+### 7 Příroda a počasí
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -519,7 +498,7 @@
 | туман (tuman) | mlha | туман (tuman) | Stejné v ukrajinštině |
 | лёд (ljod) | led | лід (lid) | Podobnější češtině |
 
-### 3.8 Čas a období
+### 8 Čas a období
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -549,7 +528,7 @@
 | сегодня (sevodnja) | dnes | сьогодні (sjohodni) | Podobnější ukrajinštině |
 | завтра (zavtra) | zítra | завтра (zavtra) | Stejné v ukrajinštině |
 
-### 3.9 Čísla a matematika
+### 9 Čísla a matematika
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -581,7 +560,7 @@
 | треть (tretj) | třetina | третина (tretyna) | Podobnější ukrajinštině |
 | четверть (četvertj) | čtvrtina | чверть (čvertj) | Podobnější ukrajinštině |
 
-### 3.10 Pocity a vlastnosti
+### 10 Pocity a vlastnosti
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -611,7 +590,7 @@
 | лень (lenj) | lenost | лінь (linj) | Podobnější češtině |
 | трудолюбие (trudoljubije) | pracovitost | працьовитість (pracjovytistj) | Odlišné od obou |
 
-### 3.11 Barvy
+### 11 Barvy
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -631,7 +610,7 @@
 | золотой (zolotoj) | zlatý | золотий (zolotyj) | Podobnější ukrajinštině |
 | серебряный (serebrjanyj) | stříbrný | срібний (sribnyj) | Podobnější češtině |
 
-### 3.12 Tělo a zdraví
+### 12 Tělo a zdraví
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -666,7 +645,7 @@
 | аптека (apteka) | lékárna | аптека (apteka) | Stejné v ukrajinštině |
 | температура (temperatura) | teplota | температура (temperatura) | Stejné ve všech třech |
 
-### 3.13 Osobní zájmena a tázací výrazy
+### 13 Osobní zájmena a tázací výrazy
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -693,7 +672,7 @@
 | который (kotoryj) | který | який (jakyj) | Odlišné od obou |
 | чей (čej) | čí | чий (čyj) | Podobnější ukrajinštině |
 
-### 3.14 Slovesa (infinitiv)
+### 14 Slovesa (infinitiv)
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -745,7 +724,7 @@
 | жить (žitj) | žít | жити (žyty) | Podobnější ukrajinštině |
 | умирать (umiratj) | umírat | вмирати (vmyraty) | Podobnější ukrajinštině |
 
-### 3.15 Přídavná jména
+### 15 Přídavná jména
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -799,7 +778,7 @@
 | счастливый (sčastlivyj) | šťastný | щасливий (ščaslyvyj) | Podobnější ukrajinštině |
 | грустный (grustnyj) | smutný | сумний (sumnyj) | Odlišné od obou |
 
-### 3.16 Předložky a spojky
+### 16 Předložky a spojky
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -845,7 +824,7 @@
 | тоже (tože) | také | також (takož) | Podobnější češtině |
 | только (toljko) | jenom | тільки (tiljky) | Podobnější ukrajinštině |
 
-### 3.17 Každodenní výrazy a fráze
+### 17 Každodenní výrazy a fráze
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -879,7 +858,7 @@
 | На здоровье! (Na zdorovje!) | Na zdraví! | На здоров'я! (Na zdorovja!) | Stejné ve všech třech |
 | Будьте здоровы! (Buďte zdorovy!) | Buďte zdráv/a! | Будьте здорові! (Buďte zdorovi!) | Stejné ve všech třech |
 
-### 3.18 Měsíce v roce
+### 18 Měsíce v roce
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -896,7 +875,7 @@
 | ноябрь (nojabrj) | listopad | листопад (lystopad) | Podobnější češtině |
 | декабрь (dekabrj) | prosinec | грудень (grudenj) | Odlišné od obou |
 
-### 3.19 Vzdělávání a profese
+### 19 Vzdělávání a profese
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -927,7 +906,7 @@
 | водитель (voditělj) | řidič | водій (vodij) | Podobnější češtině |
 | продавец (prodavec) | prodavač | продавець (prodavecj) | Podobnější češtině |
 
-### 3.20 Technologie a moderní výrazy
+### 20 Technologie a moderní výrazy
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -957,7 +936,7 @@
 | батарея (batareja) | baterie | батарея (batareja) | Stejné ve všech třech |
 | обновление (obnovlenije) | aktualizace | оновлення (onovlennja) | Podobnější ukrajinštině |
 
-### 3.21 Hobby a volný čas
+### 21 Hobby a volný čas
 
 | Rusky | Česky | Ukrajinsky | Podobnost |
 |-------|-------|------------|-----------|
@@ -992,7 +971,7 @@
 
 1. **Přízvuk**: V ruštině je přízvuk pohyblivý a velmi důležitý pro význam slov
 2. **Redukce samohlásek**: Nepřízvučné samohlásky se v ruštině vyslovují jinak
-3. **Tvrdý a měkký znak**: Ruština používá ъ (tvrdý) a ь (měkký) znak
+ **Tvrdý a měkký znak**: Ruština používá ъ (tvrdý) a ь (měkký) znak
 4. **Pády**: Ačkoli všechny tři jazyky mají pádový systém, koncovky se často liší
 5. **Slovesné vazby**: Dávejte pozor na odlišné předložky u stejných sloves
 
@@ -1000,6 +979,6 @@
 
 1. "Ruština pro samouky" (učebnice)
 2. Aplikace: Duolingo, Memrise, Tandem
-3. YouTube kanály s výukou ruštiny pro Slovany
+ YouTube kanály s výukou ruštiny pro Slovany
 4. Online slovníky: slovnik.seznam.cz, multitran.com
 5. Jednoduché texty a pohádky v ruštině
