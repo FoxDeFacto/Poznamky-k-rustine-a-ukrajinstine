@@ -205,474 +205,422 @@
 | туман (tuman) | mlha | туман (tuman) | Stejné v ukrajinštině |
 | лёд (ljod) | led | лід (lid) | Podobnější češtině |
 
-### 8 Čas a období
+### 8 Časové údaje
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| время (vrjemja) | čas | час (čas) | Odlišné od obou |
-| минута (minuta) | minuta | хвилина (chvylyna) | Podobnější češtině |
-| час (čas) | hodina | година (hodyna) | Odlišné od obou |
+| время (vrěmja) | čas | час (čas) | Podobnější češtině |
 | день (děň) | den | день (deň) | Stejné ve všech třech |
 | неделя (nědělja) | týden | тиждень (tyždeň) | Odlišné od obou |
 | месяц (měsjac) | měsíc | місяць (misjac) | Podobnější ukrajinštině |
-| год (got) | rok | рік (rik) | Odlišné od obou |
-| утро (utra) | ráno | ранок (ranok) | Odlišné od obou |
-| день (děň) | den | день (deň) | Podobné ve všech třech |
+| год (god) | rok | рік (rik) | Odlišné od obou |
+| час (čas) | hodina | година (hodyna) | Podobnější češtině |
+| минута (minuta) | minuta | хвилина (chvylyna) | Podobnější ruštině |
+| секунда (sěkunda) | sekunda | секунда (sekunda) | Stejné ve všech třech |
+| сегодня (sěvodňa) | dnes | сьогодні (sohodni) | Neutrální |
+| вчера (fčěra) | včera | вчора (včora) | Podobnější ukrajinštině |
+| завтра (zavtra) | zítra | завтра (zavtra) | Stejné v ukrajinštině |
+| утро (utra) | ráno | ранок (ranok) | Podobnější češtině |
+| день (děň) | den | день (deň) | Stejné ve všech třech |
 | вечер (věčer) | večer | вечір (večir) | Podobnější češtině |
-| ночь (noč) | noc | ніч (nič) | Podobné ve všech třech |
-| весна (věsna) | jaro | весна (vesna) | Stejné v ukrajinštině |
-| лето (ljeta) | léto | літо (lito) | Podobnější češtině |
-| осень (oséň) | podzim | осінь (osiň) | Podobnější ukrajinštině |
-| зима (zima) | zima | зима (zyma) | Stejné ve všech třech |
-| понедельник (paněděljnik) | pondělí | понеділок (ponedilok) | Podobné ve všech třech |
-| вторник (vtornik) | úterý | вівторок (vivtorok) | Podobnější ukrajinštině |
-| среда (srěda) | středa | середа (sereda) | Podobné ve všech třech |
-| четверг (čětvěrg) | čtvrtek | четвер (četver) | Podobné ve všech třech |
-| пятница (pjatnica) | pátek | п'ятниця (pjatnyc'a) | Podobnější ukrajinštině |
-| суббота (subota) | sobota | субота (subota) | Podobné ve všech třech |
+| ночь (noč) | noc | ніч (nič) | Podobnější češtině |
+| понедельник (paněděľnik) | pondělí | понеділок (ponedilok) | Podobnější češtině |
+| вторник (vtornik) | úterý | вівторок (vivtorok) | Odlišné od obou |
+| среда (srěda) | středa | середа (sereda) | Podobnější češtině |
+| четверг (četvěrg) | čtvrtek | четвер (četver) | Podobnější češtině |
+| пятница (pjatnica) | pátek | п'ятниця (pjatnycja) | Podobnější češtině |
+| суббота (subota) | sobota | субота (subota) | Stejné ve všech třech |
 | воскресенье (vaskrěsěňje) | neděle | неділя (nedilja) | Odlišné od obou |
-| вчера (fčera) | včera | вчора (včora) | Podobnější češtině |
-| сегодня (sivodňa) | dnes | сьогодні (sjohodni) | Podobnější ukrajinštině |
-| завтра (zaftra) | zítra | завтра (zavtra) | Stejné v ukrajinštině |
+| январь (janvar) | leden | січень (sičeň) | Odlišné od obou |
+| февраль (fěvraľ) | únor | лютий (ljutyj) | Odlišné od obou |
+| март (mart) | březen | березень (berezeň) | Odlišné od obou |
+| апрель (aprěl) | duben | квітень (kviteň) | Odlišné od obou |
+| май (maj) | květen | травень (traveň) | Odlišné od obou |
+| июнь (ijuň) | červen | червень (červeň) | Podobnější češtině |
+| июль (ijuľ) | červenec | липень (lypeň) | Odlišné od obou |
+| август (avgust) | srpen | серпень (serpeň) | Odlišné od obou |
+| сентябрь (sěnťabr) | září | вересень (vereseň) | Odlišné od obou |
+| октябрь (akťabr) | říjen | жовтень (žovteň) | Odlišné od obou |
+| ноябрь (nojabr) | listopad | листопад (lystopad) | Podobnější ukrajinštině |
+| декабрь (děkabr) | prosinec | грудень (hrudeň) | Odlišné od obou |
 
-### 9 Čísla a matematika
+### 9 Základní slovesa
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| один (adin) | jeden | один (odyn) | Podobnější ukrajinštině |
-| два (dva) | dva | два (dva) | Stejné ve všech třech |
-| три (tri) | tři | три (try) | Podobné ve všech třech |
-| четыре (čětyrě) | čtyři | чотири (čotyry) | Podobné ve všech třech |
-| пять (pjať) | pět | п'ять (pjať) | Podobnější ukrajinštině |
-| шесть (šěsť) | šest | шість (šisť) | Podobné ve všech třech |
-| семь (sem) | sedm | сім (sim) | Podobné ve všech třech |
-| восемь (vosěm) | osm | вісім (visim) | Podobné ve všech třech |
-| девять (děvjať) | devět | дев'ять (devjať) | Podobnější ukrajinštině |
-| десять (děsjať) | deset | десять (desjať) | Stejné v ukrajinštině |
-| одиннадцать (adinnadcať) | jedenáct | одинадцять (odynacjať) | Podobnější ukrajinštině |
-| двенадцать (dvěnadcať) | dvanáct | дванадцять (dvanacjať) | Podobnější ukrajinštině |
-| двадцать (dvadcať) | dvacet | двадцять (dvacjať) | Podobnější ukrajinštině |
-| тридцать (tricať) | třicet | тридцять (trycjať) | Podobnější ukrajinštině |
-| сорок (sorak) | čtyřicet | сорок (sorok) | Stejné v ukrajinštině |
-| пятьдесят (piďděsjat) | padesát | п'ятдесят (pjatdesjat) | Podobnější ukrajinštině |
-| сто (sto) | sto | сто (sto) | Stejné ve všech třech |
-| тысяча (tysača) | tisíc | тисяча (tysjacha) | Stejné v ukrajinštině |
-| миллион (milion) | milion | мільйон (miljjon) | Podobnější češtině |
-| плюс (pljus) | plus | плюс (pljus) | Stejné ve všech třech |
-| минус (minus) | minus | мінус (minus) | Stejné ve všech třech |
-| умножить (umnožiť) | násobit | помножити (pomnožyty) | Podobnější ukrajinštině |
-| разделить (razděliť) | dělit | поділити (podilyty) | Odlišné od obou |
-| равно (ravno) | rovná se | дорівнює (dorivňuje) | Odlišné od obou |
-| половина (palavina) | polovina | половина (polovyna) | Stejné ve všech třech |
-| треть (treť) | třetina | третина (tretyna) | Podobnější ukrajinštině |
-| четверть (čětvěrť) | čtvrtina | чверть (čverť) | Podobnější ukrajinštině |
+| быть (byť) | být | бути (buty) | Podobnější ukrajinštině |
+| иметь (iměť) | mít | мати (maty) | Odlišné od obou |
+| делать (dělať) | dělat | робити (robyty) | Podobnější češtině |
+| идти (idti) | jít | іти (ity) | Podobnější ukrajinštině |
+| ходить (chodiť) | chodit | ходити (chodyty) | Stejné ve všech třech |
+| ехать (jechať) | jet | їхати (jichaty) | Podobnější ukrajinštině |
+| видеть (viděť) | vidět | бачити (bačyty) | Podobnější češtině |
+| смотреть (smatrěť) | dívat se | дивитися (dyvytysja) | Odlišné od obou |
+| слышать (slyšať) | slyšet | чути (čuty) | Odlišné od obou |
+| говорить (gavariť) | mluvit | говорити (hovoryty) | Podobnější ukrajinštině |
+| сказать (skazať) | říct | сказати (skazaty) | Stejné v ukrajinštině |
+| спрашивать (sprašivať) | ptát se | питати (pytaty) | Odlišné od obou |
+| отвечать (atvěčať) | odpovídat | відповідати (vidpovidaty) | Odlišné od obou |
+| знать (znať) | znát, vědět | знати (znaty) | Stejné ve všech třech |
+| думать (dumať) | myslet | думати (dumaty) | Stejné v ukrajinštině |
+| помнить (pomniť) | pamatovat | пам'ятати (pamjataty) | Neutrální |
+| забывать (zabyvať) | zapomínat | забувати (zabuvaty) | Podobnější ukrajinštině |
+| хотеть (chotěť) | chtít | хотіти (chotity) | Podobnější ukrajinštině |
+| мочь (moč) | moci | могти (mohty) | Podobnější ukrajinštině |
+| должен (dolžen) | muset | повинен (povynen) | Odlišné od obou |
+| давать (davať) | dávat | давати (davaty) | Stejné v ukrajinštině |
+| брать (brať) | brát | брати (braty) | Stejné ve všech třech |
+| искать (iskať) | hledat | шукати (šukaty) | Odlišné od obou |
+| находить (nachodiť) | nacházet | знаходити (znachodyty) | Podobnější ukrajinštině |
+| открывать (atkryvať) | otevírat | відкривати (vidkryvaty) | Neutrální |
+| закрывать (zakryvať) | zavírat | закривати (zakryvaty) | Stejné v ukrajinštině |
+| начинать (načinať) | začínat | починати (počynaty) | Podobnější češtině |
+| кончать (kančať) | končit | закінчувати (zakinčuvaty) | Podobnější češtině |
+| работать (rabotať) | pracovat | працювати (pracjuvaty) | Podobnější češtině |
+| учиться (učiťsja) | učit se | вчитися (včytysja) | Podobnější češtině |
+| читать (čitať) | číst | читати (čytaty) | Stejné ve všech třech |
+| писать (pisať) | psát | писати (pysaty) | Stejné ve všech třech |
+| жить (žyť) | žít | жити (žyty) | Stejné ve všech třech |
+| любить (ljubiť) | milovat, mít rád | любити (ljubyty) | Stejné ve všech třech |
+| помогать (pamagať) | pomáhat | допомагати (dopomahaty) | Podobnější češtině |
+| есть (jesť) | jíst | їсти (jisty) | Podobnější češtině |
+| пить (piť) | pít | пити (pyty) | Stejné ve všech třech |
+| спать (spať) | spát | спати (spaty) | Stejné ve všech třech |
 
-### 10 Pocity a vlastnosti
+### 10 Přídavná jména
 
-| Rusky | Česky | Ukrajinsky | Podobnost |
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| счастье (sčastje) | štěstí | щастя (ščastja) | Podobné ve všech třech |
-| радость (radostj) | radost | радість (radistj) | Podobné ve všech třech |
-| грусть (grustj) | smutek | сум (sum) | Odlišné od obou |
-| гнев (gnev) | hněv | гнів (hniv) | Podobnější češtině |
-| страх (strakh) | strach | страх (strakh) | Stejné ve všech třech |
-| любовь (ljubovj) | láska | любов (ljubov) | Podobnější ukrajinštině |
-| ненависть (nenavist) | nenávist | ненависть (nenavist) | Podobné ve všech třech |
-| удивление (udivlenije) | překvapení | здивування (zdyvuvannja) | Odlišné od obou |
-| скука (skuka) | nuda | нудьга (nuďha) | Odlišné od obou |
-| стыд (styd) | stud | сором (sorom) | Podobnější češtině |
-| вина (vina) | vina | вина (vyna) | Stejné ve všech třech |
-| гордость (gordostj) | hrdost | гордість (hordistj) | Podobnější ukrajinštině |
-| зависть (zavistj) | závist | заздрість (zazdristj) | Podobnější češtině |
-| доброта (dobrota) | dobrota | доброта (dobrota) | Stejné ve všech třech |
-| злость (zlostj) | zlost | злість (zlistj) | Podobnější češtině |
-| жадность (žadnostj) | chamtivost | жадібність (žadibnistj) | Podobnější ukrajinštině |
-| щедрость (ščedrostj) | štědrost | щедрість (ščedristj) | Podobnější češtině |
-| честность (čestnostj) | poctivost | чесність (česnistj) | Podobnější ukrajinštině |
-| ложь (ložj) | lež | брехня (brekhnja) | Podobnější češtině |
-| храбрость (khrabrostj) | odvaha | хоробрість (khorobristj) | Podobnější ukrajinštině |
-| трусость (trusostj) | zbabělost | боягузтво (bojahuzstvo) | Odlišné od obou |
-| мудрость (mudrostj) | moudrost | мудрість (mudristj) | Podobnější češtině |
-| глупость (glupostj) | hloupost | дурість (duristj) | Odlišné od obou |
-| лень (lenj) | lenost | лінь (linj) | Podobnější češtině |
-| трудолюбие (trudoljubije) | pracovitost | працьовитість (pracjovytistj) | Odlišné od obou |
-
-### 11 Barvy
-
-| Rusky | Česky | Ukrajinsky | Podobnost |
-|-------|-------|------------|-----------|
-| цвет (cvet) | barva | колір (kolir) | Odlišné od obou |
-| белый (belyj) | bílý | білий (bilyj) | Podobnější ukrajinštině |
-| чёрный (čornyj) | černý | чорний (čornyj) | Stejné v ukrajinštině |
-| красный (krasnyj) | červený | червоний (červonyj) | Podobnější ukrajinštině |
-| синий (sinij) | modrý | синій (synij) | Podobnější ukrajinštině |
-| голубой (goluboj) | světle modrý | блакитний (blakytnyj) | Odlišné od obou |
-| зелёный (zeljonyj) | zelený | зелений (zelenyj) | Podobnější ukrajinštině |
-| жёлтый (žoltyj) | žlutý | жовтий (žovtyj) | Podobnější ukrajinštině |
-| коричневый (koričnevyj) | hnědý | коричневий (koryčnevyj) | Stejné v ukrajinštině |
-| серый (seryj) | šedý | сірий (siryj) | Podobnější ukrajinštině |
-| розовый (rozovyj) | růžový | рожевий (roževyj) | Podobnější ukrajinštině |
-| фиолетовый (fioletotyj) | fialový | фіолетовий (fioletotyj) | Stejné v ukrajinštině |
-| оранжевый (oranževyj) | oranžový | помаранчевий (pomarančevyj) | Podobnější češtině |
-| золотой (zolotoj) | zlatý | золотий (zolotyj) | Podobnější ukrajinštině |
-| серебряный (serebrjanyj) | stříbrný | срібний (sribnyj) | Podobnější češtině |
-
-### 12 Tělo a zdraví
-
-| Rusky | Česky | Ukrajinsky | Podobnost |
-|-------|-------|------------|-----------|
-| тело (telo) | tělo | тіло (tilo) | Podobnější češtině |
-| голова (golova) | hlava | голова (golova) | Stejné v ukrajinštině |
-| лицо (lico) | obličej | обличчя (oblyččja) | Podobnější ukrajinštině |
-| волосы (volosy) | vlasy | волосся (volossja) | Podobnější ukrajinštině |
-| глаз (glaz) | oko | око (oko) | Podobnější češtině |
-| нос (nos) | nos | ніс (nis) | Podobnější češtině |
-| рот (rot) | ústa | рот (rot) | Stejné v ukrajinštině |
-| ухо (ukho) | ucho | вухо (vukho) | Podobnější ukrajinštině |
-| зуб (zub) | zub | зуб (zub) | Stejné ve všech třech |
-| шея (šeja) | krk | шия (šyja) | Podobnější ukrajinštině |
-| плечо (plečo) | rameno | плече (pleče) | Podobnější ukrajinštině |
-| рука (ruka) | ruka | рука (ruka) | Stejné ve všech třech |
-| палец (palec) | prst | палець (palecj) | Podobnější češtině |
-| ноготь (nogotj) | nehet | ніготь (nihotj) | Podobnější češtině |
-| нога (noga) | noha | нога (noha) | Stejné ve všech třech |
-| колено (koleno) | koleno | коліно (kolino) | Podobnější češtině |
-| спина (spina) | záda | спина (spyna) | Stejné v ukrajinštině |
-| живот (život) | břicho | живіт (žyvit) | Podobnější ukrajinštině |
-| сердце (serdce) | srdce | серце (serce) | Podobnější ukrajinštině |
-| лёгкие (ljogkije) | plíce | легені (legeni) | Podobnější ukrajinštině |
-| кровь (krovj) | krev | кров (krov) | Podobnější ukrajinštině |
-| кость (kostj) | kost | кістка (kistka) | Podobnější češtině |
-| мозг (mozg) | mozek | мозок (mozok) | Podobnější češtině |
-| здоровье (zdorovje) | zdraví | здоров'я (zdorovja) | Podobnější ukrajinštině |
-| болезнь (boleznj) | nemoc | хвороба (khvoroba) | Odlišné od obou |
-| боль (bolj) | bolest | біль (bilj) | Podobnější češtině |
-| врач (vrač) | lékař | лікар (likar) | Odlišné od obou |
-| лекарство (lekarstvo) | lék | ліки (liky) | Podobnější češtině |
-| аптека (apteka) | lékárna | аптека (apteka) | Stejné v ukrajinštině |
-| температура (temperatura) | teplota | температура (temperatura) | Stejné ve všech třech |
-
-### 13 Osobní zájmena a tázací výrazy
-
-| Rusky | Česky | Ukrajinsky | Podobnost |
-|-------|-------|------------|-----------|
-| я (ja) | já | я (ja) | Stejné ve všech třech |
-| ты (ty) | ty | ти (ty) | Stejné ve všech třech |
-| он (on) | on | він (vin) | Podobnější češtině |
-| она (ona) | ona | вона (vona) | Podobnější ukrajinštině |
-| оно (ono) | ono | воно (vono) | Podobnější ukrajinštině |
-| мы (my) | my | ми (my) | Stejné ve všech třech |
-| вы (vy) | vy | ви (vy) | Stejné ve všech třech |
-| они (oni) | oni | вони (vony) | Podobnější ukrajinštině |
-| мой (moj) | můj | мій (mij) | Podobnější češtině |
-| твой (tvoj) | tvůj | твій (tvij) | Podobnější češtině |
-| наш (naš) | náš | наш (naš) | Stejné ve všech třech |
-| ваш (vaš) | váš | ваш (vaš) | Stejné ve všech třech |
-| их (ikh) | jejich | їх (jikh) | Podobnější ukrajinštině |
-| кто (kto) | kdo | хто (khto) | Podobnější češtině |
-| что (čto) | co | що (ščo) | Podobnější ukrajinštině |
-| где (gde) | kde | де (de) | Podobnější češtině |
-| когда (kogda) | kdy | коли (koly) | Odlišné od obou |
-| как (kak) | jak | як (jak) | Podobnější ukrajinštině |
-| почему (počemu) | proč | чому (čomu) | Podobnější ukrajinštině |
-| сколько (skoljko) | kolik | скільки (skiljky) | Podobnější ukrajinštině |
-| который (kotoryj) | který | який (jakyj) | Odlišné od obou |
-| чей (čej) | čí | чий (čyj) | Podobnější ukrajinštině |
-
-### 14 Slovesa (infinitiv)
-
-| Rusky | Česky | Ukrajinsky | Podobnost |
-|-------|-------|------------|-----------|
-| быть (bytj) | být | бути (buty) | Podobnější ukrajinštině |
-| иметь (imetj) | mít | мати (maty) | Podobnější ukrajinštině |
-| делать (delatj) | dělat | робити (robyty) | Podobnější češtině |
-| говорить (govoritj) | mluvit | говорити (hovoryty) | Stejné v ukrajinštině |
-| понимать (ponimatj) | rozumět | розуміти (rozumity) | Podobnější ukrajinštině |
-| знать (znatj) | znát | знати (znaty) | Stejné ve všech třech |
-| думать (dumatj) | myslet | думати (dumaty) | Stejné v ukrajinštině |
-| видеть (videtj) | vidět | бачити (bačyty) | Podobnější češtině |
-| слышать (slyšatj) | slyšet | чути (čuty) | Podobnější češtině |
-| хотеть (khotetj) | chtít | хотіти (khotity) | Podobnější ukrajinštině |
-| мочь (močj) | moci | могти (mohty) | Podobnější ukrajinštině |
-| идти (idti) | jít | йти (jty) | Podobnější ukrajinštině |
-| ехать (jekhatj) | jet | їхати (jikhaty) | Podobnější ukrajinštině |
-| бежать (bežatj) | běžet | бігти (bihty) | Podobnější češtině |
-| стоять (stojatj) | stát | стояти (stojaty) | Stejné v ukrajinštině |
-| сидеть (sidetj) | sedět | сидіти (sydity) | Podobnější ukrajinštině |
-| лежать (ležatj) | ležet | лежати (ležaty) | Stejné v ukrajinštině |
-| спать (spatj) | spát | спати (spaty) | Stejné ve všech třech |
-| есть (jestj) - jíst | jíst | їсти (jisty) | Podobnější ukrajinštině |
-| пить (pitj) | pít | пити (pyty) | Podobnější ukrajinštině |
-| писать (pisatj) | psát | писати (pysaty) | Podobnější ukrajinštině |
-| читать (čitatj) | číst | читати (čytaty) | Podobnější ukrajinštině |
-| смотреть (smotretj) | dívat se | дивитися (dyvytysja) | Odlišné od obou |
-| слушать (slušatj) | poslouchat | слухати (slukhaty) | Podobnější ukrajinštině |
-| учить (učitj) | učit | учити (učyty) | Podobnější ukrajinštině |
-| учиться (učitjsja) | učit se | учитися (učytysja) | Podobnější ukrajinštině |
-| работать (rabotatj) | pracovat | працювати (pracjuvaty) | Podobnější češtině |
-| отдыхать (otdykhatj) | odpočívat | відпочивати (vidpočyvaty) | Podobnější češtině |
-| играть (igratj) | hrát | грати (hraty) | Podobnější češtině |
-| петь (petj) | zpívat | співати (spivaty) | Odlišné od obou |
-| танцевать (tancovatj) | tancovat | танцювати (tancjuvaty) | Podobnější češtině |
-| гулять (guljatj) | procházet se | гуляти (huljaty) | Stejné v ukrajinštině |
-| давать (davatj) | dávat | давати (davaty) | Stejné ve všech třech |
-| брать (bratj) | brát | брати (braty) | Stejné ve všech třech |
-| покупать (pokupatj) | kupovat | купувати (kupuvaty) | Podobnější češtině |
-| продавать (prodavatj) | prodávat | продавати (prodavaty) | Stejné ve všech třech |
-| открывать (otkryvatj) | otevírat | відкривати (vidkryvaty) | Podobnější češtině |
-| закрывать (zakryvatj) | zavírat | закривати (zakryvaty) | Podobnější ukrajinštině |
-| начинать (načinatj) | začínat | починати (počynaty) | Podobnější češtině |
-| заканчивать (zakančivatj) | končit | закінчувати (zakinčuvaty) | Podobnější ukrajinštině |
-| помогать (pomogatj) | pomáhat | допомагати (dopomahaty) | Podobnější češtině |
-| любить (ljubitj) | milovat | любити (ljubyty) | Stejné v ukrajinštině |
-| ненавидеть (nenavidetj) | nenávidět | ненавидіти (nenavydity) | Podobnější ukrajinštině |
-| улыбаться (ulybatjsja) | usmívat se | посміхатися (posmikhatysja) | Odlišné od obou |
-| плакать (plakatj) | plakat | плакати (plakaty) | Stejné ve všech třech |
-| жить (žitj) | žít | жити (žyty) | Podobnější ukrajinštině |
-| умирать (umiratj) | umírat | вмирати (vmyraty) | Podobnější ukrajinštině |
-
-### 15 Přídavná jména
-
-| Rusky | Česky | Ukrajinsky | Podobnost |
-|-------|-------|------------|-----------|
-| хороший (khorošij) | dobrý | хороший (khorošyj) | Stejné v ukrajinštině |
-| плохой (plokhoj) | špatný | поганий (pohanyj) | Odlišné od obou |
-| большой (boljšoj) | velký | великий (velykyj) | Odlišné od obou |
-| маленький (malenjkij) | malý | маленький (malenjkyj) | Stejné v ukrajinštině |
+| хороший (charošij) | dobrý | добрий (dobryj) | Odlišné od obou |
+| плохой (plachoj) | špatný | поганий (pohanyj) | Odlišné od obou |
+| большой (baľšoj) | velký | великий (velykyj) | Odlišné od obou |
+| маленький (maľeňkij) | malý | малий (malyj) | Podobnější ukrajinštině |
+| новый (novyj) | nový | новий (novyj) | Stejné ve všech třech |
+| старый (staryj) | starý | старий (staryj) | Stejné ve všech třech |
 | высокий (vysokij) | vysoký | високий (vysokyj) | Stejné ve všech třech |
-| низкий (nizkij) | nízký | низький (nyzjkyj) | Podobnější češtině |
+| низкий (nizkij) | nízký | низький (nyzkyj) | Stejné ve všech třech |
 | длинный (dlinnyj) | dlouhý | довгий (dovhyj) | Odlišné od obou |
-| короткий (korotkij) | krátký | короткий (korotkyj) | Stejné ve všech třech |
+| короткий (karatkij) | krátký | короткий (korotkyj) | Stejné v ukrajinštině |
 | широкий (širokij) | široký | широкий (šyrokyj) | Stejné ve všech třech |
-| узкий (uzkij) | úzký | вузький (vuzjkyj) | Podobnější ukrajinštině |
+| узкий (uzkij) | úzký | вузький (vuzkyj) | Podobnější češtině |
 | толстый (tolstyj) | tlustý | товстий (tovstyj) | Podobnější ukrajinštině |
 | тонкий (tonkij) | tenký | тонкий (tonkyj) | Stejné ve všech třech |
-| тяжёлый (tjažolyj) | těžký | важкий (važkyj) | Odlišné od obou |
+| тяжёлый (ťažolyj) | těžký | важкий (važkyj) | Podobnější češtině |
 | лёгкий (ljogkij) | lehký | легкий (lehkyj) | Podobnější češtině |
-| старый (staryj) | starý | старий (staryj) | Stejné ve všech třech |
-| новый (novyj) | nový | новий (novyj) | Stejné ve všech třech |
-| молодой (molodoj) | mladý | молодий (molodyj) | Podobnější ukrajinštině |
-| красивый (krasivyj) | krásný | гарний (harnyj) | Odlišné od obou |
-| некрасивый (nekrasivyj) | ošklivý | негарний (neharnyj) | Odlišné od obou |
-| интересный (interesnyj) | zajímavý | цікавий (cikavyj) | Odlišné od obou |
-| скучный (skučnyj) | nudný | нудний (nudnyj) | Podobnější češtině |
-| умный (umnyj) | chytrý | розумний (rozumnyj) | Podobnější ukrajinštině |
-| глупый (glupy) | hloupý | дурний (durnyj) | Odlišné od obou |
+| твёрдый (tvjordyj) | tvrdý | твердий (tverdyj) | Stejné ve všech třech |
+| мягкий (mjagkij) | měkký | м'який (mjakyj) | Podobnější češtině |
+| горячий (garjačij) | horký | гарячий (harjačyj) | Podobnější ukrajinštině |
+| холодный (chalodnyj) | studený | холодний (cholodnyj) | Stejné v ukrajinštině |
+| тёплый (tjoplýj) | teplý | теплий (teplyj) | Stejné ve všech třech |
+| мокрый (mokryj) | mokrý | мокрий (mokryj) | Stejné ve všech třech |
+| сухой (suchoj) | suchý | сухий (suchyj) | Podobnější češtině |
+| чистый (čistyj) | čistý | чистий (čystyj) | Stejné ve všech třech |
+| грязный (grjaznyj) | špinavý | брудний (brudnyj) | Odlišné od obou |
+| светлый (světlyj) | světlý | світлий (svitlyj) | Podobnější češtině |
+| тёмный (tjomnyj) | tmavý | темний (temnyj) | Podobnější češtině |
 | быстрый (bystryj) | rychlý | швидкий (švydkyj) | Odlišné od obou |
-| медленный (medlennyj) | pomalý | повільний (povilnyj) | Odlišné od obou |
-| сильный (silnyj) | silný | сильний (sylnyj) | Stejné ve všech třech |
+| медленный (mědlennyj) | pomalý | повільний (povilnyj) | Neutrální |
+| громкий (gromkij) | hlasitý | гучний (hučnyj) | Neutrální |
+| тихий (tichij) | tichý | тихий (tychyj) | Stejné ve všech třech |
+| красивый (krasivyj) | krásný | гарний (harnyj) | Odlišné od obou |
+| умный (umnyj) | chytrý | розумний (rozumnyj) | Podobnější ukrajinštině |
+| глупый (glupyj) | hloupý | дурний (durnyj) | Odlišné od obou |
+| интересный (intěrěsnyj) | zajímavý | цікавий (cikabyj) | Odlišné od obou |
+| скучный (skučnyj) | nudný | нудний (nudnyj) | Podobnější ukrajinštině |
+| сильный (siľnyj) | silný | сильний (sylnyj) | Stejné ve všech třech |
 | слабый (slabyj) | slabý | слабкий (slabkyj) | Podobnější češtině |
 | богатый (bogatyj) | bohatý | багатий (bahatyj) | Podobnější češtině |
-| бедный (bednyj) | chudý | бідний (bidnyj) | Podobnější ukrajinštině |
-| грязный (grjaznyj) | špinavý | брудний (brudnyj) | Odlišné od obou |
-| чистый (čistyj) | čistý | чистий (čystyj) | Stejné ve všech třech |
-| мокрый (mokryj) | mokrý | мокрий (mokryj) | Stejné ve všech třech |
-| сухой (sukhoj) | suchý | сухий (sukhyj) | Podobnější češtině |
-| горячий (gorjačij) | horký | гарячий (harjačyj) | Podobnější ukrajinštině |
-| холодный (kholodnyj) | studený | холодний (kholodnyj) | Stejné v ukrajinštině |
-| трудный (trudnyj) | obtížný | важкий (važkyj) | Odlišné od obou |
-| лёгкий (ljogkij) | snadný | легкий (lehkyj) | Podobnější češtině |
-| полный (polnyj) | plný | повний (povnyj) | Podobnější ukrajinštině |
-| пустой (pustoj) | prázdný | порожній (porožnij) | Odlišné od obou |
-| открытый (otkrytyj) | otevřený | відкритий (vidkrytyj) | Podobnější češtině |
-| закрытый (zakrytyj) | zavřený | закритий (zakrytyj) | Podobnější ukrajinštině |
-| свободный (svobodnyj) | svobodný | вільний (viljnyj) | Odlišné od obou |
-| занятый (zanjatyj) | zaneprázdněný | зайнятий (zajnjatyj) | Podobnější ukrajinštině |
-| живой (živoj) | živý | живий (žyvyj) | Podobnější ukrajinštině |
-| мёртвый (mjortvyj) | mrtvý | мертвий (mertvyj) | Podobnější ukrajinštině |
-| верный (vernyj) | věrný | вірний (virnyj) | Podobnější češtině |
-| спокойный (spokojnyj) | klidný | спокійний (spokijnyj) | Podobnější ukrajinštině |
-| счастливый (sčastlivyj) | šťastný | щасливий (ščaslyvyj) | Podobnější ukrajinštině |
-| грустный (grustnyj) | smutný | сумний (sumnyj) | Odlišné od obou |
+| бедный (bědnyj) | chudý | бідний (bidnyj) | Podobnější ukrajinštině |
 
-### 16 Předložky a spojky
+### 11 Základní číslovky
 
-| Rusky | Česky | Ukrajinsky | Podobnost |
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| в (v) | v | в (v) | Stejné ve všech třech |
-| на (na) | na | на (na) | Stejné ve všech třech |
-| под (pod) | pod | під (pid) | Podobnější češtině |
-| над (nad) | nad | над (nad) | Stejné ve všech třech |
-| перед (pered) | před | перед (pered) | Stejné ve všech třech |
-| за (za) | za | за (za) | Stejné ve všech třech |
-| между (meždu) | mezi | між (miž) | Podobnější češtině |
-| у (u) | u | у (u) | Stejné ve všech třech |
-| с (s) | s | з (z) | Podobnější češtině |
-| из (iz) | z | з (z) | Podobnější ukrajinštině |
-| о/об (o/ob) | o | про (pro) | Podobnější češtině |
-| от (ot) | od | від (vid) | Podobnější češtině |
-| до (do) | do | до (do) | Stejné ve všech třech |
-| для (dlja) | pro | для (dlja) | Stejné v ukrajinštině |
-| к (k) | k | до (do) | Podobnější češtině |
-| по (po) | po | по (po) | Stejné ve všech třech |
-| без (bez) | bez | без (bez) | Stejné ve všech třech |
-| через (čerez) | přes | через (čerez) | Stejné v ukrajinštině |
-| кроме (krome) | kromě | крім (krim) | Podobnější češtině |
-| вместо (vmesto) | místo | замість (zamistj) | Odlišné od obou |
-| среди (sredi) | mezi | серед (sered) | Podobnější ukrajinštině |
-| возле (vozle) | vedle | біля (bilja) | Odlišné od obou |
-| около (okolo) | kolem | близько (blyzko) | Podobnější češtině |
-| внутри (vnutri) | uvnitř | всередині (vseredyni) | Odlišné od obou |
-| снаружи (snaruži) | vně | зовні (zovni) | Odlišné od obou |
-| вдоль (vdolj) | podél | вздовж (vzdovž) | Podobnější ukrajinštině |
-| сквозь (skvozj) | skrz | крізь (krizj) | Podobnější češtině |
-| согласно (soglasno) | podle | згідно (zhidno) | Odlišné od obou |
-| против (protiv) | proti | проти (proty) | Podobnější ukrajinštině |
-| в течение (v tečenije) | během | протягом (protjahom) | Odlišné od obou |
-| и (i) | a | і (i) | Stejné ve všech třech |
-| или (ili) | nebo | або (abo) | Odlišné od obou |
-| но (no) | ale | але (ale) | Podobnější ukrajinštině |
-| потому что (potomu što) | protože | тому що (tomu ščo) | Podobnější ukrajinštině |
-| если (jesli) | jestli | якщо (jakščo) | Podobnější češtině |
-| как (kak) | jak | як (jak) | Podobnější ukrajinštině |
-| когда (kogda) | když | коли (koly) | Odlišné od obou |
-| чтобы (čtoby) | aby | щоб (ščob) | Podobnější ukrajinštině |
-| хотя (khotja) | ačkoli | хоча (khoča) | Podobnější ukrajinštině |
-| тоже (tože) | také | також (takož) | Podobnější češtině |
-| только (toljko) | jenom | тільки (tiljky) | Podobnější ukrajinštině |
+| один (adin) | jeden | один (odyn) | Stejné v ukrajinštině |
+| два (dva) | dva | два (dva) | Stejné ve všech třech |
+| три (tri) | tři | три (try) | Stejné ve všech třech |
+| четыре (četyrě) | čtyři | чотири (čotyry) | Podobnější češtině |
+| пять (pjať) | pět | п'ять (pjať) | Podobnější ukrajinštině |
+| шесть (šesť) | šest | шість (šisť) | Podobnější češtině |
+| семь (sěm) | sedm | сім (sim) | Podobnější češtině |
+| восемь (vosěm) | osm | вісім (visim) | Podobnější češtině |
+| девять (děvjať) | devět | дев'ять (devjať) | Podobnější ukrajinštině |
+| десять (děsjať) | deset | десять (desjať) | Podobnější ukrajinštině |
+| одиннадцать (adinnadcať) | jedenáct | одинадцять (odynadcjať) | Podobnější ukrajinštině |
+| двенадцать (dvěnadcať) | dvanáct | дванадцять (dvanadcjať) | Podobnější ukrajinštině |
+| тринадцать (trinadcať) | třináct | тринадцять (trynadcjať) | Podobnější ukrajinštině |
+| четырнадцать (četyrnadcať) | čtrnáct | чотирнадцять (čotyrnadcjať) | Podobnější češtině |
+| пятнадцать (pjatnadcať) | patnáct | п'ятнадцять (pjatnadcjať) | Podobnější ukrajinštině |
+| двадцать (dvadcať) | dvacet | двадцять (dvadcjať) | Podobnější ukrajinštině |
+| тридцать (tridcať) | třicet | тридцять (trydcjať) | Podobnější ukrajinštině |
+| сорок (sorok) | čtyřicet | сорок (sorok) | Odlišné od obou |
+| пятьдесят (pjaťděsjat) | padesát | п'ятдесят (pjatdesjat) | Podobnější ukrajinštině |
+| сто (sto) | sto | сто (sto) | Stejné ve všech třech |
+| двести (dvěsti) | dvě stě | двісті (dvisti) | Podobnější ukrajinštině |
+| тысяча (tysjača) | tisíc | тисяча (tysjača) | Stejné v ukrajinštině |
+| миллион (million) | milion | мільйон (miljon) | Podobnější češtině |
+| первый (pěrvyj) | první | перший (peršyj) | Podobnější ukrajinštině |
+| второй (vtoroj) | druhý | другий (druhyj) | Podobnější češtině |
+| третий (trětij) | třetí | третій (tretij) | Stejné ve všech třech |
 
-### 17 Každodenní výrazy a fráze
+### 12 Fráze pro cestování
 
-| Rusky | Česky | Ukrajinsky | Podobnost |
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| Доброе утро! (Dobroje utro!) | Dobré ráno! | Добрий ранок! (Dobryj ranok!) | Podobné ve všech třech |
-| Добрый день! (Dobryj denj!) | Dobrý den! | Добрий день! (Dobryj denj!) | Stejné ve všech třech |
-| Добрый вечер! (Dobryj večer!) | Dobrý večer! | Добрий вечір! (Dobryj večir!) | Podobnější češtině |
-| Как вас зовут? (Kak vas zovut?) | Jak se jmenujete? | Як вас звати? (Jak vas zvaty?) | Podobnější ukrajinštině |
-| Меня зовут... (Menja zovut...) | Jmenuji se... | Мене звати... (Mene zvaty...) | Podobnější ukrajinštině |
-| Очень приятно. (Očenj prijatno.) | Těší mě. | Дуже приємно. (Duže pryjemno.) | Podobnější ukrajinštině |
-| Как дела? (Kak dela?) | Jak se máš? | Як справи? (Jak spravy?) | Odlišné od obou |
-| Хорошо, спасибо. (Khorošo, spasibo.) | Dobře, děkuji. | Добре, дякую. (Dobre, djakuju.) | Odlišné od obou |
-| Извините. (Izvinite.) | Promiňte. | Вибачте. (Vybačte.) | Odlišné od obou |
-| Не могли бы вы помочь? (Ne mogli by vy pomoč?) | Nemohl/a byste mi pomoci? | Не могли б ви допомогти? (Ne mohly b vy dopomohty?) | Podobnější ukrajinštině |
-| Я не понимаю. (Ja ne ponimaju.) | Nerozumím. | Я не розумію. (Ja ne rozumiju.) | Podobnější ukrajinštině |
-| Повторите, пожалуйста. (Povtorite, požalujsta.) | Zopakujte to, prosím. | Повторіть, будь ласка. (Povtoritj, budj laska.) | Podobnější ukrajinštině |
-| Говорите медленнее. (Govorite medlenneje.) | Mluvte pomaleji. | Говоріть повільніше. (Hovoritj poviljniše.) | Podobnější ukrajinštině |
-| Сколько это стоит? (Skoljko eto stoit?) | Kolik to stojí? | Скільки це коштує? (Skiljky ce koštuje?) | Částečně podobné na oboje |
-| Где находится...? (Gde nakhoditsja...?) | Kde se nachází...? | Де знаходиться...? (De znakhodytjsja...?) | Podobnější ukrajinštině |
-| Я заблудился. (Ja zabludilsja.) | Ztratil jsem se. | Я заблукав. (Ja zablukav.) | Podobnější ukrajinštině |
-| Мне нужно... (Mne nužno...) | Potřebuji... | Мені потрібно... (Meni potribno...) | Podobnější ukrajinštině |
-| У вас есть...? (U vas jestj...?) | Máte...? | У вас є...? (U vas je...?) | Podobnější ukrajinštině |
-| Я хотел бы... (Ja khotel by...) | Chtěl bych... | Я хотів би... (Ja khotiv by...) | Podobnější ukrajinštině |
-| Можно...? (Možno...?) | Mohu...? | Можна...? (Možna...?) | Stejné v ukrajinštině |
-| С удовольствием! (S udovoljstvijem!) | S potěšením! | З задоволенням! (Z zadovolennjam!) | Odlišné od obou |
-| К сожалению, нет. (K sožaleniju, net.) | Bohužel ne. | На жаль, ні. (Na žalj, ni.) | Odlišné od obou |
-| Я согласен/согласна. (Ja soglasen/soglasna.) | Souhlasím. | Я згоден/згодна. (Ja zhoden/zhodna.) | Podobnější ukrajinštině |
-| Я не согласен/согласна. (Ja ne soglasen/soglasna.) | Nesouhlasím. | Я не згоден/згодна. (Ja ne zhoden/zhodna.) | Podobnější ukrajinštině |
-| Поздравляю! (Pozdravljaju!) | Gratuluji! | Вітаю! (Vitaju!) | Odlišné od obou |
-| Удачи! (Udači!) | Hodně štěstí! | Удачі! (Udači!) | Stejné v ukrajinštině |
-| Всего хорошего! (Vsego khorošego!) | Všechno nejlepší! | Всього найкращого! (Vsjoho najkraščoho!) | Podobnější ukrajinštině |
-| На здоровье! (Na zdorovje!) | Na zdraví! | На здоров'я! (Na zdorovja!) | Stejné ve všech třech |
-| Будьте здоровы! (Buďte zdorovy!) | Buďte zdráv/a! | Будьте здорові! (Buďte zdorovi!) | Stejné ve všech třech |
+| Как добраться до...? (kak dabraťsja da) | Jak se dostanu do...? | Як дістатися до...? (jak distatysja do) | Neutrální |
+| Где находится...? (gdě nachoditsja) | Kde se nachází...? | Де знаходиться...? (de znachodyťsja) | Podobnější ukrajinštině |
+| Сколько стоит билет? (skolka stoit bilět) | Kolik stojí lístek? | Скільки коштує квиток? (skiľky koštuje kvytok) | Neutrální |
+| Когда отправляется поезд? (kagda atpravljajetsja pojezd) | Kdy odjíždí vlak? | Коли відправляється поїзд? (koly vidpravljajeťsja pojizd) | Podobnější ukrajinštině |
+| На какой платформе? (na kakoj platformě) | Na kterém nástupišti? | На якій платформі? (na jakij platformi) | Podobnější ukrajinštině |
+| Где туалет? (gdě tualět) | Kde je toaleta? | Де туалет? (de tualet) | Podobnější ukrajinštině |
+| Можно карту города? (možna kartu goroda) | Mohu dostat mapu města? | Можна карту міста? (možna kartu mista) | Podobnější ukrajinštině |
+| Я заблудился. (ja zabludilsja) | Ztratil jsem se. | Я заблукав. (ja zablukav) | Podobnější ukrajinštině |
+| Можно сфотографировать? (možna sfatagrafiravaťsja) | Můžu si to vyfotit? | Можна сфотографувати? (možna sfotohrafuvaty) | Podobnější ukrajinštině |
+| Я не говорю по-русски. (ja ně gavarju pa-ruski) | Nemluvím rusky. | Я не розмовляю російською. (ja ne rozmovljaju rosijskoju) | Neutrální |
+| Вы говорите по-английски? (vy gavaritě pa-anglijski) | Mluvíte anglicky? | Ви розмовляєте англійською? (vy rozmovljajete anhlijskoju) | Neutrální |
+| Сколько времени? (skolka vrěměni) | Kolik je hodin? | Котра година? (kotra hodyna) | Odlišné od obou |
+| У вас есть свободные номера? (u vas jesť svabodnyje nomera) | Máte volné pokoje? | У вас є вільні номери? (u vas je viľni nomery) | Podobnější ukrajinštině |
+| На одну ночь. (na adnu noč) | Na jednu noc. | На одну ніч. (na odnu nič) | Podobnější ukrajinštině |
+| Я хочу заказать столик. (ja chaču zakazať stolik) | Chtěl bych rezervovat stůl. | Я хочу замовити столик. (ja choču zamovyty stolik) | Podobnější ukrajinštině |
+| Счёт, пожалуйста. (ščot, požalusta) | Účet, prosím. | Рахунок, будь ласка. (rachunok, buď laska) | Odlišné od obou |
 
-### 18 Měsíce v roce
+### 13 Zdraví a nemoci
 
-| Rusky | Česky | Ukrajinsky | Podobnost |
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| январь (janvarj) | leden | січень (sičenj) | Odlišné od obou |
-| февраль (fevralj) | únor | лютий (ljutyj) | Odlišné od obou |
-| март (mart) | březen | березень (berezenj) | Odlišné od obou |
-| апрель (aprelj) | duben | квітень (kvitenj) | Odlišné od obou |
-| май (maj) | květen | травень (travenj) | Odlišné od obou |
-| июнь (ijunj) | červen | червень (červenj) | Odlišné od obou |
-| июль (ijulj) | červenec | липень (lypenj) | Odlišné od obou |
-| август (avgust) | srpen | серпень (serpenj) | Odlišné od obou |
-| сентябрь (sentjabrj) | září | вересень (veresenj) | Odlišné od obou |
-| октябрь (oktjabrj) | říjen | жовтень (žovtenj) | Odlišné od obou |
-| ноябрь (nojabrj) | listopad | листопад (lystopad) | Odlišné od obou |
-| декабрь (dekabrj) | prosinec | грудень (grudenj) | Odlišné od obou |
+| здоровье (zdarovje) | zdraví | здоров'я (zdorovja) | Podobnější ukrajinštině |
+| болезнь (bolězň) | nemoc | хвороба (chvoroba) | Odlišné od obou |
+| врач (vrač) | lékař | лікар (likar) | Odlišné od obou |
+| учитель (učitěľ) | učitel | вчитель (včyteľ) | Podobnější češtině |
+| юрист (jurist) | právník | юрист (juryst) | Stejné ve všech třech |
+| программист (pragramist) | programátor | програміст (programist) | Podobnější ukrajinštině |
+| экономист (ekanamist) | ekonom | економіст (ekonomist) | Podobnější ukrajinštině |
+| журналист (žurnalist) | novinář | журналіст (žurnalist) | Stejné ve všech třech |
+| строитель (stroitěľ) | stavitel | будівельник (budivelnik) | Odlišné od obou |
+| водитель (vaditěľ) | řidič | водій (vodij) | Podobnější ukrajinštině |
+| продавец (pradavěc) | prodavač | продавець (prodavec) | Podobnější češtině |
+| повар (pavar) | kuchař | кухар (kuchar) | Podobnější češtině |
+| официант (aficiant) | číšník | офіціант (oficiant) | Stejné v ukrajinštině |
+| резюме (rezjume) | životopis | резюме (rezjume) | Stejné ve všech třech |
+| собеседование (saběsědovanije) | pohovor | співбесіда (spivbesida) | Odlišné od obou |
+| зарплата (zarplata) | plat | зарплата (zarplata) | Stejné ve všech třech |
+| коллега (kallega) | kolega | колега (koleha) | Podobnější češtině |
 
-### 19 Vzdělávání a profese
+### 14 Škola a vzdělávání
 
-| Rusky | Česky | Ukrajinsky | Podobnost |
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| учиться (učitjsja) | učit se | вчитися (včytysja) | Podobnější ukrajinštině |
-| преподавать (prepodavatj) | vyučovat | викладати (vykladaty) | Odlišné od obou |
-| изучать (izučatj) | studovat | вивчати (vyvčaty) | Podobnější ukrajinštině |
 | школа (škola) | škola | школа (škola) | Stejné ve všech třech |
-| класс (klass) | třída | клас (klas) | Podobnější ukrajinštině |
-| урок (urok) | hodina | урок (urok) | Stejné v ukrajinštině |
-| домашнее задание (domašneje zadanije) | domácí úkol | домашнє завдання (domašne zavdannja) | Podobnější ukrajinštině |
-| учебник (učebnik) | učebnice | підручник (pidručnyk) | Podobnější češtině |
-| тетрадь (tetradj) | sešit | зошит (zošyt) | Odlišné od obou |
-| ручка (ručka) | pero | ручка (ručka) | Stejné v ukrajinštině |
-| карандаш (karandaš) | tužka | олівець (olivecj) | Odlišné od obou |
-| экзамен (ekzamen) | zkouška | іспит (ispyt) | Podobnější češtině |
-| университет (universitet) | univerzita | університет (universytet) | Stejné ve všech třech |
-| студент (student) | student | студент (student) | Stejné ve všech třech |
-| преподаватель (prepodavatelj) | učitel | викладач (vykladač) | Odlišné od obou |
-| профессор (professor) | profesor | професор (profesor) | Stejné ve všech třech |
+| класс (klas) | třída | клас (klas) | Stejné ve všech třech |
+| учитель (učitěľ) | učitel | вчитель (včyteľ) | Podobnější češtině |
+| ученик (učenik) | žák | учень (učeň) | Podobnější češtině |
+| урок (urok) | vyučovací hodina | урок (urok) | Stejné ve všech třech |
+| доска (daska) | tabule | дошка (doška) | Podobnější ukrajinštině |
+| мел (měl) | křída | крейда (krejda) | Odlišné od obou |
+| ручка (ručka) | pero | ручка (ručka) | Stejné ve všech třech |
+| карандаш (karandaš) | tužka | олівець (olivec) | Odlišné od obou |
+| тетрадь (tětraď) | sešit | зошит (zošyt) | Odlišné od obou |
+| домашняя работа (damašnjaja rabota) | domácí úkol | домашнє завдання (domašnje zavdaňňa) | Neutrální |
+| экзамен (ekzamen) | zkouška | іспит (ispyt) | Odlišné od obou |
+| отметка (atmětka) | známka | оцінка (ocinka) | Odlišné od obou |
+| перемена (pěrěměna) | přestávka | перерва (pererva) | Podobnější češtině |
+| университет (univěrsitět) | univerzita | університет (universytet) | Stejné ve všech třech |
+| студент (studěnt) | student | студент (student) | Stejné ve všech třech |
+| лекция (lekcija) | přednáška | лекція (lekcija) | Stejné ve všech třech |
+| библиотека (biblijtěka) | knihovna | бібліотека (biblioteka) | Podobnější ukrajinštině |
+| математика (matěmatika) | matematika | математика (matematyka) | Stejné ve všech třech |
+| история (istorija) | dějepis | історія (istorija) | Stejné ve všech třech |
+| география (gěografija) | zeměpis | географія (heohrafija) | Podobnější ukrajinštině |
+| физика (fizika) | fyzika | фізика (fizyka) | Stejné ve všech třech |
+| биология (bialogija) | biologie | біологія (biolohija) | Podobnější ukrajinštině |
+| химия (chimija) | chemie | хімія (chimija) | Stejné ve všech třech |
+| литература (litěratura) | literatura | література (literatura) | Stejné ve všech třech |
+| иностранный язык (inostrannyj jazyk) | cizí jazyk | іноземна мова (inozemna mova) | Neutrální |
+
+### 15 Práce a povolání
+
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
+|-------|-------|------------|-----------|
+| работа (rabota) | práce | робота (robota) | Stejné v ukrajinštině |
+| профессия (prafěssija) | povolání | професія (profesija) | Podobnější ukrajinštině |
+| офис (ofis) | kancelář | офіс (ofis) | Stejné ve všech třech |
+| директор (direktor) | ředitel | директор (dyrektor) | Stejné ve všech třech |
+| начальник (načaľnik) | vedoucí | начальник (načaľnyk) | Stejné v ukrajinštině |
+| менеджер (měnědžer) | manažer | менеджер (menedžer) | Stejné ve všech třech |
+| секретарь (sěkrětař) | sekretářka | секретар (sekretar) | Podobnější ukrajinštině |
+| бухгалтер (buchgalter) | účetní | бухгалтер (buchhalter) | Stejné v ukrajinštině |
 | инженер (inžener) | inženýr | інженер (inžener) | Stejné ve všech třech |
 | врач (vrač) | lékař | лікар (likar) | Odlišné od obou |
-| медсестра (medsestra) | zdravotní sestra | медсестра (medsestra) | Stejné ve všech třech |
+| учитель (učitěľ) | učitel | вчитель (včyteľ) | Podobnější češtině |
 | юрист (jurist) | právník | юрист (juryst) | Stejné ve všech třech |
-| учитель (učitelj) | učitel | вчитель (včytelj) | Podobnější ukrajinštině |
-| программист (programmist) | programátor | програміст (programist) | Stejné ve všech třech |
-| бухгалтер (bukhgalter) | účetní | бухгалтер (bukhgalter) | Stejné ve všech třech |
-| менеджер (menedžer) | manažer | менеджер (menedžer) | Stejné ve všech třech |
-| водитель (voditělj) | řidič | водій (vodij) | Podobnější češtině |
-| продавец (prodavec) | prodavač | продавець (prodavecj) | Podobnější češtině |
+| программист (pragramist) | programátor | програміст (programist) | Podobnější ukrajinštině |
+| экономист (ekanamist) | ekonom | економіст (ekonomist) | Podobnější ukrajinštině |
+| журналист (žurnalist) | novinář | журналіст (žurnalist) | Stejné ve všech třech |
+| строитель (stroitěľ) | stavitel | будівельник (budivelnik) | Odlišné od obou |
+| водитель (vaditěľ) | řidič | водій (vodij) | Podobnější ukrajinštině |
+| продавец (pradavěc) | prodavač | продавець (prodavec) | Podobnější češtině |
+| повар (pavar) | kuchař | кухар (kuchar) | Podobnější češtině |
+| официант (aficiant) | číšník | офіціант (oficiant) | Stejné v ukrajinštině |
+| резюме (rezjume) | životopis | резюме (rezjume) | Stejné ve všech třech |
+| собеседование (saběsědovanije) | pohovor | співбесіда (spivbesida) | Odlišné od obou |
+| зарплата (zarplata) | plat | зарплата (zarplata) | Stejné ve všech třech |
+| коллега (kallega) | kolega | колега (koleha) | Podobnější češtině |
+| переводчик (pěrevodčik) | překladatel | перекладач (perekladač) | Neutrální |
+| архитектор (architěktor) | architekt | архітектор (architěktor) | Stejné ve všech třech |
+| дизайнер (dizajněr) | návrhář | дизайнер (dyzajner) | Stejné ve všech třech |
+| фотограф (fotograf) | fotograf | фотограф (fotohraf) | Stejné ve všech třech |
+| фармацевт (farmacevt) | lékárník | фармацевт (farmacevt) | Stejné ve všech třech |
+| шофёр (šofjor) | řidič | шофер (šofer) | Stejné ve všech třech |
+| стоматолог (stamatolog) | zubař | стоматолог (stomatoloh) | Podobnější ukrajinštině |
+| хирург (chirurg) | chirurg | хірург (chirurh) | Stejné ve všech třech |
+| психолог (psicholog) | psycholog | психолог (psycholoh) | Stejné ve všech třech |
+| уволить (uvoliť) | propustit | звільнити (zviľnyty) | Odlišné od obou |
+| нанять (naňať) | najmout | найняти (najňaty) | Podobnější ukrajinštině |
+| собеседование (sabesědovanije) | pohovor | співбесіда (spivbesida) | Odlišné od obou |
+| трудовой договор (trudavoj dagavor) | pracovní smlouva | трудовий договір (trudovyj dohovir) | Podobnější ukrajinštině |
+| стаж (staž) | praxe | стаж (staž) | Stejné ve všech třech |
+| опыт работы (opyt raboty) | pracovní zkušenosti | досвід роботи (dosvid roboty) | Podobnější ukrajinštině |
+| отпуск (otpusk) | dovolená | відпустка (vidpustka) | Podobnější ukrajinštině |
+| больничный (baľničnyj) | nemocenská | лікарняний (likarňanyj) | Odlišné od obou |
+| пенсия (pensija) | důchod | пенсія (pensija) | Podobnější ukrajinštině |
 
-### 20 Technologie a moderní výrazy
+### 16 Pocity a emoce
 
-| Rusky | Česky | Ukrajinsky | Podobnost |
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| компьютер (kompjuter) | počítač | комп'ютер (kompjuter) | Podobnější ukrajinštině |
-| телефон (telefon) | telefon | телефон (telefon) | Stejné ve všech třech |
+| счастье (ščasťje) | štěstí | щастя (ščastja) | Podobnější ukrajinštině |
+| радость (radosť) | radost | радість (radisť) | Podobnější češtině |
+| грусть (grusť) | smutek | сум (sum) | Odlišné od obou |
+| гнев (gněv) | hněv | гнів (hniv) | Stejné ve všech třech |
+| страх (strach) | strach | страх (strach) | Stejné ve všech třech |
+| удивление (udivlěnije) | překvapení | здивування (zdyvuvanňa) | Odlišné od obou |
+| стыд (styd) | stud | сором (sorom) | Odlišné od obou |
+| любовь (ljuboť) | láska | любов (ljubov) | Podobnější ukrajinštině |
+| ненависть (něnavisť) | nenávist | ненависть (nenavysť) | Stejné ve všech třech |
+| интерес (intěres) | zájem | інтерес (interes) | Stejné ve všech třech |
+| скука (skuka) | nuda | нудьга (nudha) | Podobnější češtině |
+| тревога (trěvoga) | úzkost | тривога (tryvoha) | Stejné v ukrajinštině |
+| усталость (ustalo´sť) | únava | втома (vtoma) | Odlišné od obou |
+| надежда (naděžda) | naděje | надія (nadija) | Podobnější češtině |
+| разочарование (razočarovanije) | zklamání | розчарування (rozčaruvanňa) | Podobnější ukrajinštině |
+| волнение (valnlenije) | rozrušení | хвилювання (chvyljuvanňa) | Odlišné od obou |
+| облегчение (ablegčenije) | úleva | полегшення (polehšenňa) | Neutrální |
+| обида (abida) | křivda | образа (obraza) | Odlišné od obou |
+| зависть (zavisť) | závist | заздрість (zazdrisť) | Podobnější češtině |
+| гордость (gordosť) | hrdost | гордість (hordisť) | Podobnější češtině |
+
+### 17 Barvy
+
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
+|-------|-------|------------|-----------|
+| цвет (cvět) | barva | колір (kolir) | Odlišné od obou |
+| белый (bělyj) | bílý | білий (bilyj) | Podobnější ukrajinštině |
+| чёрный (čornyj) | černý | чорний (čornyj) | Podobnější ukrajinštině |
+| красный (krasnyj) | červený | червоний (červonyj) | Podobnější češtině |
+| зелёный (zeljonyj) | zelený | зелений (zelenyj) | Stejné ve všech třech |
+| синий (sinij) | modrý | синій (synij) | Odlišné od obou |
+| голубой (galuboj) | světle modrý | блакитний (blakytnyj) | Odlišné od obou |
+| жёлтый (žoltyj) | žlutý | жовтий (žovtyj) | Podobnější ukrajinštině |
+| оранжевый (aranževyj) | oranžový | помаранчевий (pomarančevyj) | Odlišné od obou |
+| розовый (rozovyj) | růžový | рожевий (roževyj) | Podobnější ukrajinštině |
+| фиолетовый (fioletovyj) | fialový | фіолетовий (fioletobyj) | Podobnější ukrajinštině |
+| коричневый (koričněvyj) | hnědý | коричневий (koryčnevyj) | Podobnější ukrajinštině |
+| серый (sěryj) | šedý | сірий (siryj) | Podobnější ukrajinštině |
+| золотой (zalotoj) | zlatý | золотий (zolotyj) | Podobnější ukrajinštině |
+| серебряный (sěrebrjanyj) | stříbrný | срібний (sribnyj) | Neutrální |
+
+### 18 Náboženství a svátky
+
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
+|-------|-------|------------|-----------|
+| Бог (bog) | Bůh | Бог (boh) | Stejné ve všech třech |
+| церковь (cerkov) | kostel | церква (cerkva) | Podobnější ukrajinštině |
+| вера (věra) | víra | віра (vira) | Podobnější ukrajinštině |
+| священник (svjaščennik) | kněz | священник (svjaščennyk) | Stejné v ukrajinštině |
+| монах (monach) | mnich | монах (monach) | Stejné ve všech třech |
+| молитва (molitva) | modlitba | молитва (molytva) | Stejné ve všech třech |
+| грех (grěch) | hřích | гріх (hrich) | Podobnější češtině |
+| праздник (prazdnik) | svátek | свято (svjato) | Odlišné od obou |
+| Рождество (rožděstvo) | Vánoce | Різдво (rizdvo) | Podobnější ukrajinštině |
+| Пасха (pascha) | Velikonoce | Пасха (pascha) | Odlišné od obou |
+| Новый год (novyj god) | Nový rok | Новий рік (novyj rik) | Podobnější češtině |
+| крещение (kreščenije) | křest | хрещення (chreščenňa) | Podobnější češtině |
+| венчание (venčanije) | svatba | вінчання (vinčanňa) | Podobnější ukrajinštině |
+| похороны (pachorony) | pohřeb | похорон (pochoron) | Podobnější ukrajinštině |
+| Библия (biblija) | Bible | Біблія (biblija) | Stejné ve všech třech |
+| ангел (angel) | anděl | ангел (anhel) | Podobnější češtině |
+| душа (duša) | duše | душа (duša) | Stejné ve všech třech |
+| рай (raj) | ráj | рай (raj) | Stejné ve všech třech |
+| ад (ad) | peklo | пекло (peklo) | Podobnější češtině |
+
+### 19 Úřady a dokumenty
+
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
+|-------|-------|------------|-----------|
+| паспорт (pasport) | pas | паспорт (pasport) | Stejné ve všech třech |
+| виза (viza) | vízum | віза (viza) | Podobnější češtině |
+| удостоверение (udostověrenije) | průkaz | посвідчення (posvidčenňa) | Odlišné od obou |
+| документ (dakumjent) | dokument | документ (dokument) | Stejné ve všech třech |
+| анкета (ankěta) | formulář | анкета (anketa) | Stejné ve všech třech |
+| подпись (podpis) | podpis | підпис (pidpys) | Podobnější češtině |
+| печать (pěčať) | razítko | печатка (pečatka) | Podobnější ukrajinštině |
+| заявление (zajavlenije) | žádost | заява (zajava) | Podobnější ukrajinštině |
+| справка (spravka) | potvrzení | довідка (dovidka) | Odlišné od obou |
+| договор (dagavor) | smlouva | договір (dohovir) | Podobnější ukrajinštině |
+| страховка (strachovka) | pojištění | страховка (strachovka) | Stejné v ukrajinštině |
+| налог (nalog) | daň | податок (podatok) | Odlišné od obou |
+| штраф (štraf) | pokuta | штраф (štraf) | Stejné ve všech třech |
+| суд (sud) | soud | суд (sud) | Stejné ve všech třech |
+| полиция (policija) | policie | поліція (policija) | Stejné ve všech třech |
+| таможня (tamožňa) | celnice | митниця (mytnylja) | Odlišné od obou |
+| граница (granica) | hranice | кордон (kordon) | Odlišné od obou |
+
+### 20 Technologie a internet
+
+| Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
+|-------|-------|------------|-----------|
+| компьютер (kampjutěr) | počítač | комп'ютер (kompjuter) | Podobnější ukrajinštině |
+| интернет (intěrnet) | internet | інтернет (internet) | Stejné ve všech třech |
+| сайт (sajt) | webové stránky | сайт (sajt) | Stejné ve všech třech |
+| электронная почта (elěktronnaja počta) | e-mail | електронна пошта (elektronná pošta) | Podobnější ukrajinštině |
+| пароль (paroľ) | heslo | пароль (paroľ) | Stejné ve všech třech |
+| файл (fajl) | soubor | файл (fajl) | Stejné ve všech třech |
+| программа (pragramma) | program | програма (prohrama) | Podobnější ukrajinštině |
+| приложение (priloženije) | aplikace | додаток (dodatok) | Odlišné od obou |
 | смартфон (smartfon) | chytrý telefon | смартфон (smartfon) | Stejné ve všech třech |
 | планшет (planšet) | tablet | планшет (planšet) | Stejné ve všech třech |
-| интернет (internet) | internet | інтернет (internet) | Stejné ve všech třech |
-| сайт (sajt) | webová stránka | сайт (sajt) | Stejné ve všech třech |
-| пароль (parol) | heslo | пароль (parolj) | Stejné ve všech třech |
-| электронная почта (elektronnaja počta) | e-mail | електронна пошта (elektronna pošta) | Stejné ve všech třech |
-| сообщение (soobščenije) | zpráva | повідомлення (povidomlennja) | Odlišné od obou |
-| скачать (skačatj) | stáhnout | завантажити (zavantažyty) | Odlišné od obou |
-| загрузить (zagruzitj) | nahrát | завантажити (zavantažyty) | Odlišné od obou |
-| клавиатура (klaviatura) | klávesnice | клавіатура (klaviatura) | Stejné ve všech třech |
+| клавиатура (klaviatura) | klávesnice | клавіатура (klaviatura) | Podobnější ukrajinštině |
 | мышь (myš) | myš | миша (myša) | Podobnější češtině |
-| экран (ekran) | obrazovka | екран (ekran) | Stejné ve všech třech |
-| принтер (printer) | tiskárna | принтер (printer) | Stejné ve všech třech |
-| файл (fajl) | soubor | файл (fajl) | Stejné ve všech třech |
-| программа (programma) | program | програма (programa) | Stejné ve všech třech |
-| приложение (priloženije) | aplikace | додаток (dodatok) | Odlišné od obou |
-| социальная сеть (socialjnaja setj) | sociální síť | соціальна мережа (socialjna mereža) | Podobnější češtině |
-| фотография (fotografija) | fotografie | фотографія (fotografija) | Stejné ve všech třech |
-| видео (video) | video | відео (video) | Stejné ve všech třech |
-| гаджет (gadžet) | gadget | гаджет (gadžet) | Stejné ve všech třech |
-| зарядное устройство (zarjadnoje ustrojstvo) | nabíječka | зарядний пристрій (zarjadnyj prystrij) | Podobnější ukrajinštině |
-| батарея (batareja) | baterie | батарея (batareja) | Stejné ve všech třech |
-| обновление (obnovlenije) | aktualizace | оновлення (onovlennja) | Podobnější ukrajinštině |
+| принтер (printěr) | tiskárna | принтер (prynter) | Stejné ve všech třech |
+| сканер (skaněr) | skener | сканер (skaner) | Stejné ve všech třech |
+| загрузить (zagruziť) | stáhnout | завантажити (zavantažyty) | Odlišné od obou |
+| скачать (skačať) | stáhnout | скачати (skačaty) | Stejné v ukrajinštině |
+| социальная сеть (sociaľnaja seť) | sociální síť | соціальна мережа (sociaľna mereža) | Neutrální |
+| поиск (poisk) | vyhledávání | пошук (pošuk) | Podobnější ukrajinštině |né od obou |
+| больница (baľnica) | nemocnice | лікарня (likarňa) | Odlišné od obou |
+| аптека (aptěka) | lékárna | аптека (apteka) | Stejné v ukrajinštině |
+| лекарство (lěkarstva) | lék | ліки (liky) | Podobnější češtině |
+| боль (boľ) | bolest | біль (bil) | Podobnější češtině |
+| температура (těmpěratura) | teplota | температура (temperatura) | Stejné ve všech třech |
+| кашель (kašěľ) | kašel | кашель (kašeľ) | Stejné ve všech třech |
+| насморк (nasmork) | rýma | нежить (nežyť) | Odlišné od obou |
+| грипп (grip) | chřipka | грип (hryp) | Podobnější ukrajinštině |
+| простуда (prastuda) | nachlazení | застуда (zastuda) | Podobnější ukrajinštině |
+| аллергия (allěrgija) | alergie | алергія (alerhija) | Podobnější ukrajinštině |
+| головная боль (galavnaja boľ) | bolest hlavy | головний біль (holovnyj bil) | Podobnější ukrajinštině |
+| зубная боль (zubnaja boľ) | bolest zubů | зубний біль (zubnyj bil) | Podobnější ukrajinštině |
+| живот (život) | břicho | живіт (žyvit) | Podobnější češtině |
+| сердце (sěrdce) | srdce | серце (serce) | Podobnější češtině |
+| лёгкие (ljogkije) | plíce | легені (leheni) | Podobnější ukrajinštině |
+| давление (davlěnije) | tlak | тиск (tysk) | Odlišné od obou |
+| анализ (analiz) | vyšetření | аналіз (analiz) | Podobnější ukrajinštině |
+| операция (apěracija) | operace | операція (operacija) | Podobnější ukrajinštině |
+| Я болен. (ja bolěn) | Jsem nemocný. | Я хворий. (ja chvoryj) | Odlišné od obou |
+| У меня болит... (u měňa bolit) | Bolí mě... | У мене болить... (u mene bolyť) | Podobnější ukrajinštině |
+| Мне нужен врач. (mně nužen vrač) | Potřebuji lékaře. | Мені потрібен лікар. (meni potriben likar) | Neutrální |
+| Где ближайшая аптека? (gdě bližajšaja aptěka) | Kde je nejbližší lékárna? | Де найближча аптека? (de najblyžča apteka) | Podobnější ukrajinštině |
 
-### 21 Hobby a volný čas
 
-| Rusky | Česky | Ukrajinsky | Podobnost |
-|-------|-------|------------|-----------|
-| хобби (khobbi) | koníček | хобі (khobi) | Podobnější ukrajinštině |
-| спорт (sport) | sport | спорт (sport) | Stejné ve všech třech |
-| футбол (futbol) | fotbal | футбол (futbol) | Stejné ve všech třech |
-| баскетбол (basketbol) | basketbal | баскетбол (basketbol) | Stejné ve všech třech |
-| теннис (tennis) | tenis | теніс (tenis) | Podobnější češtině |
-| плавание (plavanije) | plavání | плавання (plavannja) | Podobnější ukrajinštině |
-| бег (beg) | běh | біг (bih) | Podobnější češtině |
-| йога (joga) | jóga | йога (joha) | Stejné ve všech třech |
-| танцы (tancy) | tanec | танці (tanci) | Podobnější ukrajinštině |
-| рисование (risovanije) | kreslení | малювання (maljuvannja) | Odlišné od obou |
-| фотография (fotografija) | fotografování | фотографія (fotografija) | Stejné ve všech třech |
-| чтение (čtenije) | čtení | читання (čytannja) | Podobnější ukrajinštině |
-| кино (kino) | kino | кіно (kino) | Stejné ve všech třech |
-| театр (teatr) | divadlo | театр (teatr) | Stejné ve všech třech |
-| музыка (muzyka) | hudba | музика (muzyka) | Podobnější ukrajinštině |
-| концерт (koncert) | koncert | концерт (koncert) | Stejné ve všech třech |
-| путешествие (putešestvije) | cestování | подорож (podorož) | Odlišné od obou |
-| поход (pokhod) | výlet | похід (pokhid) | Podobnější ukrajinštině |
-| рыбалка (rybalka) | rybaření | рибалка (rybalka) | Stejné v ukrajinštině |
-| охота (okhota) | lov | полювання (poljuvannja) | Odlišné od obou |
-| готовка (gotovka) | vaření | готування (gotuvannja) | Podobnější ukrajinštině |
-| выпечка (vypečka) | pečení | випічка (vypička) | Podobnější ukrajinštině |
-| вязание (vjazanije) | pletení | в'язання (vjazannja) | Podobnější ukrajinštině |
-| шитьё (šitjo) | šití | шиття (šyttja) | Podobnější ukrajinštině |
-| садоводство (sadovodstvo) | zahradničení | садівництво (sadivnyctvo) | Podobnější ukrajinštině |
-| коллекционирование (kollekcionirovanije) | sbírání | колекціонування (kolekcjonuvannja) | Podobnější ukrajinštině |
 
 ## Gramatické rozdíly, na které je třeba dávat pozor
 
