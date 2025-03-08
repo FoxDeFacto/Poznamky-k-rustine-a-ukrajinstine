@@ -9,74 +9,74 @@
 | привет (privět) | ahoj | привіт (pryvit) | Podobnější ukrajinštině |
 | спасибо (spasiba) | děkuji | дякую (ďakuju) | Odlišné od obou |
 | пожалуйста (požalusta) | prosím | будь ласка (buď laska) | Odlišné od obou |
-| да (da) | ano | так (tak) | Podobnější češtině (spíše jen délkou) |
+| да (da) | ano | так (tak) | Odlišné od obou |
 | нет (ňet) | ne | ні (ni) | Podobnější češtině |
-| здравствуйте (zdrastvujtě) | dobrý den | добрий день (dobryj děň) | Neutrální |
+| здравствуйте (zdrastvujtě) | dobrý den | Здрастуйте (zdrastujte) | Podobnější ukrajinštině |
 | до свидания (da svidanija) | na shledanou | до побачення (do pobačeňňa) | Podobnější ukrajinštině |
 | пока (paka) | ahoj (na rozloučenou) | бувай (buvaj) | Odlišné od obou |
 | добрый день (dobryj děň) | dobrý den | добрий день (dobryj děň) | Stejné v ukrajinštině |
-| доброе утро (dobraje utra) | dobré ráno | добрий ранок (dobryj ranok) | Neutrální |
-| добрый вечер (dobryj věčer) | dobrý večer | добрий вечір (dobryj večir) | Podobnější češtině |
+| доброе утро (dobraje utra) | dobré ráno | добрий ранок (dobryj ranok) | Podobné ve všech třech |
+| добрый вечер (dobryj věčer) | dobrý večer | добрий вечір (dobryj večir) | Podobné ve všech třech |
 | спокойной ночи (spakojnoj noči) | dobrou noc | на добраніч (na dobranič) | Podobnější češtině |
-| как дела? (kak děla) | jak se máš? | як справи? (jak spravy) | Neutrální |
-| хорошо (charašo) | dobře | добре (dobre) | Podobnější ukrajinštině |
+| как дела? (kak děla) | jak se máš? | як справи? (jak spravy) | Odlišné od obou |
+| хорошо (charašo) | dobře | добре (dobre) | Odlišné od obou |
 | плохо (plocha) | špatně | погано (pohano) | Odlišné od obou |
 | извините (izvinitě) | promiňte | вибачте (vybačtě) | Odlišné od obou |
-| понимаю (panimaju) | rozumím | розумію (rozumiju) | Podobnější ukrajinštině |
-| не понимаю (ně panimaju) | nerozumím | не розумію (ne rozumiju) | Podobnější ukrajinštině |
+| понимаю (panimaju) | rozumím | розумію (rozumiju) | Odlišné od obou |
+| не понимаю (ně panimaju) | nerozumím | не розумію (ne rozumiju) | Odlišné od obou |
 
 ### 2 Lidé a rodina
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
 | человек (čelavěk) | člověk | людина (ljudyna) | Podobnější češtině |
-| люди (ljudi) | lidé | люди (ljudy) | Stejné ve všech třech |
-| друг (druk) | přítel | друг (druh) | Stejné v ukrajinštině |
-| подруга (padruga) | přítelkyně | подруга (podruha) | Stejné v ukrajinštině |
+| люди (ljudi) | lidé | люди (ljudy) | Podobné ve všech třech |
+| друг (druk) | přítel | друг (druh) | Podobnější ukrajinštině |
+| подруга (padruga) | přítelkyně | подруга (podruha) | Podobnější ukrajinštině |
 | женщина (žénščina) | žena | жінка (žinka) | Podobnější češtině |
 | мужчина (mužčina) | muž | чоловік (čolovik) | Podobnější češtině |
 | ребёнок (rěbjonok) | dítě | дитина (dytyna) | Odlišné od obou |
-| девочка (děvačka) | děvče, holčička | дівчинка (divčynka) | Podobnější ukrajinštině |
-| мальчик (malčik) | chlapec, kluk | хлопчик (chlopčyk) | Podobnější ukrajinštině |
+| девочка (děvačka) | děvče, holčička | дівчинка (divčynka) | Podobné ve všech třech |
+| мальчик (malčik) | chlapec, kluk | хлопчик (chlopčyk) | Odlišné od obou |
 | семья (sěmja) | rodina | сім'я (simja) | Podobnější ukrajinštině |
-| мать/мама (mať/mama) | matka/máma | мати/мама (maty/mama) | Stejné ve všech třech |
+| мать/мама (mať/mama) | matka/máma | мати/мама (maty/mama) | Podobné ve všech třech |
 | отец/папа (atěc/papa) | otec/táta | батько/тато (baťko/tato) | Podobnější češtině |
 | сын (syn) | syn | син (syn) | Stejné ve všech třech |
 | дочь (doč) | dcera | дочка (dočka) | Podobnější ukrajinštině |
 | брат (brat) | bratr | брат (brat) | Stejné v ukrajinštině |
-| сестра (sěstra) | sestra | сестра (sestra) | Stejné ve všech třech |
-| бабушка (babuška) | babička | бабуся (babusja) | Podobnější češtině |
+| сестра (sěstra) | sestra | сестра (sestra) | Podobné ve všech třech |
+| бабушка (babuška) | babička | бабуся (babusja) | Podobné ve všech třech |
 | дедушка (děduška) | dědeček | дідусь (didus) | Podobnější češtině |
 | муж (muž) | manžel | чоловік (čolovik) | Podobnější češtině |
-| жена (žena) | manželka | дружина (družyna) | Odlišné od obou |
-| тётя (ťoťa) | teta | тітка (titka) | Podobnější češtině |
+| жена (žena) | manželka/žena | дружина/жінка (družyna/žinka) | Podobné ve všech třech |
+| тётя (ťoťa) | teta | тітка (titka) | Podobné ve všech třech |
 | дядя (ďaďa) | strýc | дядько (ďaďko) | Podobnější ukrajinštině |
-| двоюродный брат (dvajučodnyj brat) | bratranec | двоюрідний брат (dvojuridnyj brat) | Stejné v ukrajinštině |
-| двоюродная сестра (dvajučodnaja sěstra) | sestřenice | двоюрідна сестра (dvojuridna sestra) | Stejné v ukrajinštině |
+| двоюродный брат (dvajučodnyj brat) | bratranec | двоюрідний брат (dvojuridnyj brat) | Podobnější ukrajinštině |
+| двоюродная сестра (dvajučodnaja sěstra) | sestřenice | двоюрідна сестра (dvojuridna sestra) | Podobnější ukrajinštině |
 
 ### 3 Zvířata
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| собака (sabaka) | pes | собака (sobaka) | Stejné v ukrajinštině |
-| кошка (koška) | kočka | кішка (kiška) | Podobnější češtině |
-| птица (ptica) | pták | птах (ptach) | Podobnější ukrajinštině |
+| собака (sabaka) | pes | собака (sobaka) | Podobné v ukrajinštině |
+| кошка (koška) | kočka | кішка (kiška) | Podobné ve všech třech |
+| птица (ptica) | pták | птах (ptach) | Podobné ve všech třech |
 | рыба (ryba) | ryba | риба (ryba) | Stejné ve všech třech |
-| корова (karova) | kráva | корова (korova) | Stejné v ukrajinštině |
+| корова (karova) | kráva | корова (korova) | Podobné v ukrajinštině |
 | лошадь (lošaď) | kůň | кінь (kiň) | Odlišné od obou |
 | свинья (sviňja) | prase | свиня (svyňa) | Podobnější ukrajinštině |
-| коза (kaza) | koza | коза (koza) | Stejné ve všech třech |
+| коза (kaza) | koza | коза (koza) | Podobné ve všech třech |
 | овца (avca) | ovce | вівця (vivcja) | Podobnější češtině |
 | курица (kurica) | slepice | курка (kurka) | Podobnější ukrajinštině |
 | петух (pětuch) | kohout | півень (piveň) | Odlišné od obou |
-| утка (utka) | kachna | качка (kačka) | Podobnější ukrajinštině |
+| утка (utka) | kachna | качка (kačka) | Odlišné od obou |
 | гусь (gus) | husa | гуска (huska) | Podobnější češtině |
-| волк (volk) | vlk | вовк (vovk) | Podobnější ukrajinštině |
-| лиса (lisa) | liška | лисиця (lysycja) | Podobnější češtině |
+| волк (volk) | vlk | вовк (vovk) | Podobné ve všech třech |
+| лиса (lisa) | liška | лисиця (lysycja) | Podobné ve všech třech |
 | медведь (mědvěď) | medvěd | ведмідь (vedmiď) | Podobnější češtině |
-| заяц (zajac) | zajíc | заєць (zajeс) | Podobnější češtině |
-| мышь (myš) | myš | миша (myša) | Podobnější češtině |
-| лягушка (ljaguška) | žába | жаба (žaba) | Podobnější češtině |
+| заяц (zajac) | zajíc | заєць (zajeс) | Podobné ve všech třech |
+| мышь (myš) | myš | миша (myša) | Stejné v češtině |
+| лягушка (ljaguška) | žába | жаба (žaba) | Odlišné od obou |
 | змея (zmeja) | had | змія (zmija) | Podobnější ukrajinštině |
 
 ### 4 Dům a předměty
@@ -85,33 +85,33 @@
 |-------|-------|------------|-----------|
 | дом (dom) | dům | будинок (budynok) | Podobnější češtině |
 | квартира (kvartira) | byt | квартира (kvartyra) | Stejné v ukrajinštině |
-| комната (komnata) | pokoj | кімната (kimnata) | Podobnější ukrajinštině |
-| кухня (kuchňa) | kuchyně | кухня (kuchňa) | Stejné ve všech třech |
-| спальня (spalňa) | ložnice | спальня (spalňa) | Stejné ve všech třech |
+| комната (komnata) | pokoj | кімната (kimnata) | Podobné v ukrajinštině |
+| кухня (kuchňa) | kuchyně | кухня (kuchňa) | Podobné ve všech třech |
+| спальня (spalňa) | ložnice | спальня (spalňa) | Stejné v ukrajinštině |
 | ванная (vannaja) | koupelna | ванна кімната (vanna kimnata) | Podobnější ukrajinštině |
-| туалет (tualět) | toaleta | туалет (tualet) | Stejné ve všech třech |
-| стол (stol) | stůl | стіл (stil) | Podobnější češtině |
-| стул (stul) | židle | стілець (stilec) | Odlišné od obou |
+| туалет (tualět) | toaleta | туалет (tualet) | Podobné ve všech třech |
+| стол (stol) | stůl | стіл (stil) | Podobné ve všech třech |
+| стул (stul) | židle | стілець (stilec) | Podobnější ukrajinštině |
 | кровать (kravať) | postel | ліжко (ližko) | Odlišné od obou |
 | шкаф (škaf) | skříň | шафа (šafa) | Podobnější ukrajinštině |
-| диван (divan) | pohovka | диван (dyvan) | Stejné v ukrajinštině |
-| кресло (krěslo) | křeslo | крісло (krislo) | Podobnější češtině |
+| диван (divan) | pohovka | диван (dyvan) | Podobné v ukrajinštině |
+| кресло (krěslo) | křeslo | крісло (krislo) | Stejné v češtině |
 | окно (akno) | okno | вікно (vikno) | Podobnější češtině |
-| дверь (dvěr) | dveře | двері (dveri) | Podobnější češtině |
+| дверь (dvěr) | dveře | двері (dveri) | Podobné ve všech třech |
 | пол (pol) | podlaha | підлога (pidloha) | Odlišné od obou |
 | потолок (patalok) | strop | стеля (stelja) | Odlišné od obou |
-| стена (stěna) | stěna | стіна (stina) | Podobnější češtině |
+| стена (stěna) | stěna | стіна (stina) | Stejné v češtině |
 | лампа (lampa) | lampa | лампа (lampa) | Stejné ve všech třech |
-| телевизор (tělevizar) | televizor | телевізор (televizor) | Stejné ve všech třech |
-| холодильник (chalodilnik) | lednice | холодильник (cholodylnyk) | Stejné v ukrajinštině |
-| плита (plita) | sporák | плита (plyta) | Stejné v ukrajinštině |
+| телевизор (tělevizar) | televizor | телевізор (televizor) | Podobné ve všech třech |
+| холодильник (chalodilnik) | lednice | холодильник (cholodylnyk) | Podobné v ukrajinštině |
+| плита (plita) | sporák | плита (plyta) | Podobné v ukrajinštině |
 
 ### 5 Jídlo a pití
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| еда (jeda) | jídlo | їжа (jiža) | Podobnější ukrajinštině |
-| завтрак (zavtrak) | snídaně | сніданок (snidanok) | Neutrální |
+| еда (jeda) | jídlo | їжа (jiža) | Odlišné od obou |
+| завтрак (zavtrak) | snídaně | сніданок (snidanok) | Odlišné od obou |
 | обед (aběd) | oběd | обід (obid) | Podobnější češtině |
 | ужин (užyn) | večeře | вечеря (večerja) | Podobnější ukrajinštině |
 | хлеб (chleb) | chléb | хліб (chlib) | Podobnější češtině |
