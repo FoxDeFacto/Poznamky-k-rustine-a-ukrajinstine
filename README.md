@@ -441,10 +441,10 @@
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| работа (rabota) | práce | робота (robota) | Stejné v ukrajinštině |
+| работа (rabota) | práce | робота (robota) | Podobné v ukrajinštině |
 | профессия (prafěssija) | povolání | професія (profesija) | Podobnější ukrajinštině |
-| офис (ofis) | kancelář | офіс (ofis) | Stejné ve všech třech |
-| директор (direktor) | ředitel | директор (dyrektor) | Stejné ve všech třech |
+| офис (ofis) | kancelář | офіс (ofis) | Stejné v ukrajinštině |
+| директор (direktor) | ředitel | директор (dyrektor) | Podobné v ukrajinštině |
 | начальник (načaľnik) | vedoucí | начальник (načaľnyk) | Stejné v ukrajinštině |
 | менеджер (měnědžer) | manažer | менеджер (menedžer) | Stejné ve všech třech |
 | секретарь (sěkrětař) | sekretářka | секретар (sekretar) | Podobnější ukrajinštině |
