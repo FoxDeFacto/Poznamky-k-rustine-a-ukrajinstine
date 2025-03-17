@@ -622,9 +622,9 @@
 
 
 ## Gramatické rozdíly, na které je třeba dávat pozor
-
 1. **Přízvuk**: V ruštině je přízvuk pohyblivý a velmi důležitý pro význam slov
-2. **Redukce samohlásek**: Nepřízvučné samohlásky se v ruštině vyslovují jinak
+2. **Fonetika**: Ukrajinština i čeština jsou silné fonetické na rozdíl od ruštiny
+3. **Redukce samohlásek**: Nepřízvučné samohlásky se v ruštině vyslovují jinak
  **Tvrdý a měkký znak**: Ruština používá ъ (tvrdý) a ь (měkký) znak
-4. **Pády**: Ačkoli všechny tři jazyky mají pádový systém, koncovky se často liší
-5. **Slovesné vazby**: Dávejte pozor na odlišné předložky u stejných sloves
+4. **Pády**: Ačkoli všechny tři jazyky mají pádový systém (v ruštině chybý vokativ), koncovky se často liší
+5. **Slovesné vazby**: Dávat pozor na odlišné předložky u stejných sloves
