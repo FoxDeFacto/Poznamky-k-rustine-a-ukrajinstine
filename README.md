@@ -84,7 +84,7 @@
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
 | дом (dom) | dům | будинок (budynok) | Podobnější češtině |
-| квартира (kvartira) | byt | квартира (kvartyra) | Stejné v ukrajinštině |
+| квартира (kvartira) | byt | квартира (kvartyra) | Podobné v ukrajinštině |
 | комната (komnata) | pokoj | кімната (kimnata) | Podobné v ukrajinštině |
 | кухня (kuchňa) | kuchyně | кухня (kuchňa) | Podobné ve všech třech |
 | спальня (spalňa) | ložnice | спальня (spalňa) | Stejné v ukrajinštině |
