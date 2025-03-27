@@ -405,6 +405,26 @@
 | собеседование (saběsědovanije) | pohovor | співбесіда (spivbesida) | Odlišné od obou |
 | зарплата (zarplata) | plat | зарплата (zarplata) | Stejné v ukrajinštině |
 | коллега (kalega) | kolega | колега (koleha) | Podobné ve všech třech |
+| больница (baľnica) | nemocnice | лікарня (likarňa) | Odlišné od obou |
+| аптека (aptěka) | lékárna | аптека (apteka) | Podobné v ukrajinštině |
+| лекарство (lěkarstva) | lék | ліки (liky) | Odlišné od obou |
+| боль (boľ) | bolest | біль (bil) | Podobné ve všech třech |
+| температура (těmpěratura) | teplota | температура (temperatura) | Podobné v ukrajinštině |
+| кашель (kašěľ) | kašel | кашель (kašeľ) | Podobné ve všech třech |
+| насморк (nasmork) | rýma | нежить (nežyť) | Odlišné od obou |
+| грипп (grip) | chřipka | грип (hryp) | Podobnější ukrajinštině |
+| простуда (prastuda) | nachlazení | застуда (zastuda) | Odlišné od obou |
+| аллергия (allěrgija) | alergie | алергія (alerhija) | Podobnější ukrajinštině |
+| живот (život) | břicho | живіт (žyvit) | Podobné v ukrajinšině |
+| сердце (sěrdce) | srdce | серце (serce) | Podobné ve všech třech |
+| лёгкие (ljogkije) | plíce | легені (leheni) | Odlišné od obou |
+| давление (davlěnije) | tlak | тиск (tysk) | Odlišné od obou |
+| анализ (analiz) | vyšetření | аналіз (analiz) | Stejné v ukrajinštině |
+| операция (apěracija) | operace | операція (operacija) | Podobnější ukrajinštině |
+| Я болен. (ja bolěn) | Jsem nemocný. | Я хворий. (ja chvoryj) | Odlišné od obou |
+| У меня болит... (u měňa bolit) | Bolí mě... | У мене болить... (u mene bolyť) | Podobnější ukrajinštině |
+| Мне нужен врач. (mně nužen vrač) | Potřebuji lékaře. | Мені потрібен лікар. (meni potriben likar) | Odlišné od obou |
+| Где ближайшая аптека? (gdě bližajšaja aptěka) | Kde je nejbližší lékárna? | Де найближча аптека? (de najblyžča apteka) | Podobnější ukrajinštině |
 
 ### 14 Škola a vzdělávání
 
@@ -556,68 +576,46 @@
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
-| паспорт (pasport) | pas | паспорт (pasport) | Stejné ve všech třech |
-| виза (viza) | vízum | віза (viza) | Podobnější češtině |
+| паспорт (pasport) | pas | паспорт (pasport) | Stejné v ukrajinštině |
+| виза (viza) | vízum | віза (viza) | Stejné v ukrajinštině |
 | удостоверение (udostověrenije) | průkaz | посвідчення (posvidčenňa) | Odlišné od obou |
-| документ (dakumjent) | dokument | документ (dokument) | Stejné ve všech třech |
-| анкета (ankěta) | formulář | анкета (anketa) | Stejné ve všech třech |
-| подпись (podpis) | podpis | підпис (pidpys) | Podobnější češtině |
+| документ (dakumjent) | dokument | документ (dokument) | Podobné ve všech třech |
+| анкета (ankěta) | formulář | анкета (anketa) | Odlišné od obou |
+| подпись (podpis) | podpis | підпис (pidpys) | Stejné v češtině |
 | печать (pěčať) | razítko | печатка (pečatka) | Podobnější ukrajinštině |
 | заявление (zajavlenije) | žádost | заява (zajava) | Podobnější ukrajinštině |
 | справка (spravka) | potvrzení | довідка (dovidka) | Odlišné od obou |
 | договор (dagavor) | smlouva | договір (dohovir) | Podobnější ukrajinštině |
 | страховка (strachovka) | pojištění | страховка (strachovka) | Stejné v ukrajinštině |
 | налог (nalog) | daň | податок (podatok) | Odlišné od obou |
-| штраф (štraf) | pokuta | штраф (štraf) | Stejné ve všech třech |
-| суд (sud) | soud | суд (sud) | Stejné ve všech třech |
-| полиция (policija) | policie | поліція (policija) | Stejné ve všech třech |
+| штраф (štraf) | pokuta | штраф (štraf) | Stejné v ukrajinštině |
+| суд (sud) | soud | суд (sud) | Stejné v ukrajinštině |
+| полиция (policija) | policie | поліція (policija) | Stejné v ukrajinštině |
 | таможня (tamožňa) | celnice | митниця (mytnylja) | Odlišné od obou |
-| граница (granica) | hranice | кордон (kordon) | Odlišné od obou |
+| граница (granica) | hranice | кордон (kordon) | Podobné v češtině |
 
 ### 20 Technologie a internet
 
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
 | компьютер (kampjutěr) | počítač | комп'ютер (kompjuter) | Podobnější ukrajinštině |
-| интернет (intěrnet) | internet | інтернет (internet) | Stejné ve všech třech |
-| сайт (sajt) | webové stránky | сайт (sajt) | Stejné ve všech třech |
+| интернет (intěrnet) | internet | інтернет (internet) | Podobné ve všech třech |
+| сайт (sajt) | webové stránky | сайт (sajt) | Stejné v ukrajinštině |
 | электронная почта (elěktronnaja počta) | e-mail | електронна пошта (elektronná pošta) | Podobnější ukrajinštině |
-| пароль (paroľ) | heslo | пароль (paroľ) | Stejné ve všech třech |
-| файл (fajl) | soubor | файл (fajl) | Stejné ve všech třech |
-| программа (pragramma) | program | програма (prohrama) | Podobnější ukrajinštině |
+| пароль (paroľ) | heslo | пароль (paroľ) | Stejné v ukrajinštině |
+| файл (fajl) | soubor | файл (fajl) | Stejné v ukrajinštině |
+| программа (pragramma) | program | програма (prohrama) | Podobné v ukrajinštině |
 | приложение (priloženije) | aplikace | додаток (dodatok) | Odlišné od obou |
-| смартфон (smartfon) | chytrý telefon | смартфон (smartfon) | Stejné ve všech třech |
-| планшет (planšet) | tablet | планшет (planšet) | Stejné ve všech třech |
-| клавиатура (klaviatura) | klávesnice | клавіатура (klaviatura) | Podobnější ukrajinštině |
-| мышь (myš) | myš | миша (myša) | Podobnější češtině |
-| принтер (printěr) | tiskárna | принтер (prynter) | Stejné ve všech třech |
-| сканер (skaněr) | skener | сканер (skaner) | Stejné ve všech třech |
+| смартфон (smartfon) | chytrý telefon | смартфон (smartfon) | Stejné v ukrajinštině |
+| планшет (planšet) | tablet | планшет (planšet) | Stejné v ukrajinštině |
+| клавиатура (klaviatura) | klávesnice | клавіатура (klaviatura) | Stejné v ukrajinštině |
+| мышь (myš) | myš | миша (myša) | Stejné v češtině |
+| принтер (printěr) | tiskárna | принтер (prynter) | Podobné v ukrajinštině |
+| сканер (skaněr) | skener | сканер (skaner) | Podobné ve všech třech |
 | загрузить (zagruziť) | stáhnout | завантажити (zavantažyty) | Odlišné od obou |
-| скачать (skačať) | stáhnout | скачати (skačaty) | Stejné v ukrajinštině |
-| социальная сеть (sociaľnaja seť) | sociální síť | соціальна мережа (sociaľna mereža) | Neutrální |
-| поиск (poisk) | vyhledávání | пошук (pošuk) | Podobnější ukrajinštině |né od obou |
-| больница (baľnica) | nemocnice | лікарня (likarňa) | Odlišné od obou |
-| аптека (aptěka) | lékárna | аптека (apteka) | Stejné v ukrajinštině |
-| лекарство (lěkarstva) | lék | ліки (liky) | Podobnější češtině |
-| боль (boľ) | bolest | біль (bil) | Podobnější češtině |
-| температура (těmpěratura) | teplota | температура (temperatura) | Stejné ve všech třech |
-| кашель (kašěľ) | kašel | кашель (kašeľ) | Stejné ve všech třech |
-| насморк (nasmork) | rýma | нежить (nežyť) | Odlišné od obou |
-| грипп (grip) | chřipka | грип (hryp) | Podobnější ukrajinštině |
-| простуда (prastuda) | nachlazení | застуда (zastuda) | Podobnější ukrajinštině |
-| аллергия (allěrgija) | alergie | алергія (alerhija) | Podobnější ukrajinštině |
-| головная боль (galavnaja boľ) | bolest hlavy | головний біль (holovnyj bil) | Podobnější ukrajinštině |
-| зубная боль (zubnaja boľ) | bolest zubů | зубний біль (zubnyj bil) | Podobnější ukrajinštině |
-| живот (život) | břicho | живіт (žyvit) | Podobnější češtině |
-| сердце (sěrdce) | srdce | серце (serce) | Podobnější češtině |
-| лёгкие (ljogkije) | plíce | легені (leheni) | Podobnější ukrajinštině |
-| давление (davlěnije) | tlak | тиск (tysk) | Odlišné od obou |
-| анализ (analiz) | vyšetření | аналіз (analiz) | Podobnější ukrajinštině |
-| операция (apěracija) | operace | операція (operacija) | Podobnější ukrajinštině |
-| Я болен. (ja bolěn) | Jsem nemocný. | Я хворий. (ja chvoryj) | Odlišné od obou |
-| У меня болит... (u měňa bolit) | Bolí mě... | У мене болить... (u mene bolyť) | Podobnější ukrajinštině |
-| Мне нужен врач. (mně nužen vrač) | Potřebuji lékaře. | Мені потрібен лікар. (meni potriben likar) | Neutrální |
-| Где ближайшая аптека? (gdě bližajšaja aptěka) | Kde je nejbližší lékárna? | Де найближча аптека? (de najblyžča apteka) | Podobnější ukrajinštině |
+| скачать (skačať) | stáhnout | скачати (skačaty) | Podobné v ukrajinštině |
+| социальная сеть (sociaľnaja seť) | sociální síť | соціальна мережа (sociaľna mereža) | Částečně podobné ve všech |
+| поиск (poisk) | vyhledávání | пошук (pošuk) | Podobnější ukrajinštině |
 
 
 
