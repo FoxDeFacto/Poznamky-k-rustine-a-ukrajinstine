@@ -159,7 +159,7 @@
 | больница (balnica) | nemocnice | лікарня (likarňa) | Odlišné od obou |
 | школа (škola) | škola | школа (škola) | Stejné ve všech třech |
 | университет (univěrsitět) | univerzita | університет (universytet) | Podobné ve všech třech |
-| музей (muzěj) | muzeum | музей (muzej) | Stejné ve všech třech |
+| музей (muzěj) | muzeum | музей (muzej) | Podobné v ukrajinštině |
 | театр (těatr) | divadlo | театр (teatr) | Podobné v ukrajinštině |
 | библиотека (biblijatěka) | knihovna | бібліотека (biblioteka) | Podobné v ukrajinštině |
 | почта (počta) | pošta | пошта (pošta) | Podobné ve všech třech |
@@ -180,7 +180,7 @@
 | Rusky (česká výslovnost) | Česky | Ukrajinsky (česká výslovnost) | Podobnost |
 |-------|-------|------------|-----------|
 | природа (priroda) | příroda | природа (pryroda) | Podobné v ukrajinštině |
-| небо (něbo) | nebe | небо (nebo) | Stejné ve všech třech |
+| небо (něbo) | nebe | небо (nebo) | Podobné ve všech třech |
 | солнце (solnce) | slunce | сонце (sonce) | Podobnější ukrajinštině |
 | луна (luna) | měsíc | місяць (misjac) | Odlišné od obou |
 | звезда (zvězda) | hvězda | зірка (zirka) | Podobnější ukrajinštině |
